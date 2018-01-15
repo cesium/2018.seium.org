@@ -1,0 +1,94 @@
+
+- name: Maior Número de Badges
+  desc: Durante toda a semana, podes colecionar badges por participares nas atividades, falar com empresas e oradores ou vencer desafios. E, em alguns casos, irás mesmo precisar dos teus melhores dotes de Sherlock Holmes!<br>
+        <br>Diverte-te e encontra os badges! Só os melhores colecionadores terão oportunidade de ganhar um destes fantásticos prémios.
+  class: dark
+  prizes:
+    - name: A anunciar
+      num: 1
+      link:
+      img: fa-star
+
+    - name: A anunciar
+      num: 2
+      link:
+      img: fa-trophy
+
+    - name: A anunciar
+      num: 3
+      link:
+      img: fa-gift
+
+
+- name: Melhor Fotografia
+  desc: Gostas de tirar fotografias? Então este desafio é para ti! Publica a melhor foto no facebook da SEI ou no instagram para vencer este desafio!<br>
+        <br>Para isso, no facebook usa a hashtag '#SEI18' em publicações públicas e no instagram identifica o @cesiuminho e certifica-te que tens o perfil público.
+  class: light
+  prizes:
+    - name: A anunciar
+      link:
+      img: fa-trophy
+
+
+- name: Desafio do dia
+  desc: Todos os dias há um novo desafio.<br>
+        <br>Tenta a tua sorte! Só tens que ser o mais rápido a resolvê-lo!
+
+  class: light
+  prizes:
+    - name: A anunciar
+      link:
+      img: fa-trophy
+
+
+- name: Tudo por um badge!
+  desc: Queres mesmo ter o maior número de badges?<br>
+        <br>Vence estes pequenos desafios e podes ganhar mais um!
+  class: dark
+  prizes:
+    - name: Badge extra
+      link: 
+      img: fa-star
+
+#- name: Torneio de Videojogos
+#  desc: Torneio de 32 equipas ou participantes, consoante o jogo, jogado online. A final será ao vivo, no recinto da SEI, no último dia do evento.
+#  class: light
+#  prizes:
+#    - name: A anunciar
+#      num: 1
+#      link:
+#      img: fa-star
+
+- name: Desafio de Segurança CTF
+  desc: Desafio Capture The Flag, onde ganhas pontos relativos ao número de flags que capturas, vencendo o participante com maior número de capturas. 
+  class: dark
+  prizes:
+    - name: A anunciar
+      num: 1
+      img: fa-trophy
+
+    - name: A anunciar
+      num: 2
+      link:
+      img: fa-star
+
+
+- name: DPUM
+  desc: E como não podia deixar de ser, temos mais desafios algorítmicos para ti!
+        Durante a semana, usa a linguagem em que te sentes mais confortável e resolve os problemas para ganhares prémios.
+  class: light
+  prizes:
+    - name: A anunciar
+      num: 1
+      link:
+      img: fa-trophy
+
+    - name: A anunciar
+      num: 2
+      link:
+      img: fa-star
+
+    - name: A anunciar
+      num: 3
+      link:
+      img: fa-gift
