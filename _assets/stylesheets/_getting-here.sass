@@ -12,9 +12,6 @@
   .section-title
     margin-top: 70px
 
-.location
-  background-image: url(image_path("icons/location-icon.png"))
-
 .train
   background-image: url(image_path("icons/train-icon.png"))
 
@@ -23,6 +20,47 @@
 
 .car
   background-image: url(image_path("icons/car-icon.png"))
+
+#comboio
+  background-attachment: fixed
+  background-image: url(image_path("backgrounds/light-stuff.png"))
+  background-position: center center
+  -webkit-background-size: cover
+  background-repeat: none
+  -moz-background-size: cover
+  -o-background-size: cover
+  background-color: #222
+  background-attachment: fixed
+  color: #fff
+  .section-title
+    margin-top: 30px
+  cursor: default
+
+#autocarro
+  color: #fff
+  padding-bottom: 20px
+  text-align: center
+  p
+    text-align: left
+  .section-title
+    margin-top: 30px
+    margin-bottom: 40px
+  cursor: default
+
+#carro
+  background-attachment: fixed
+  background-image: url(image_path("backgrounds/light-stuff.png"))
+  background-position: center center
+  -webkit-background-size: cover
+  background-repeat: none
+  -moz-background-size: cover
+  -o-background-size: cover
+  background-color: #222
+  background-attachment: fixed
+  color: #fff
+  .section-title
+    margin-top: 30px
+  cursor: default
 
 .transport-img
   width: 64px
@@ -58,54 +96,25 @@
     margin: 0 auto
     border-bottom: 4px solid #fff
 
+.transport-desc
+  p
+    font-size: 16px
+  @media (max-width: 767px)
+    margin-top: 30px
+
+.transport-bus
+  @media (max-width: 767px)
+    margin-bottom: 20px
+
+.googleMaps-col
+  padding: 0
+
 #google-maps
   margin-top: 15px
   width: 80%
-  height: 400px
+  height: 300px
   @media (max-width: 767px)
     width: 100%
-
-#train
-  background-attachment: fixed
-  background-image: url(image_path("backgrounds/light-stuff.png"))
-  background-position: center center
-  background-repeat: none
-  -webkit-background-size: cover
-  -moz-background-size: cover
-  background-size: cover
-  -o-background-size: cover
-  height: 100%
-  width: 100%
-  padding-bottom: 30px
-  margin-top: 50px
-
-.speaker-indicators div.rn-carousel-indicator span
-  font-size: 20px
-  color: rgba(255, 255, 255, 0.6)
-  margin-right: 5px
-  &:hover, &:focus
-    font-size: 24px
-    transition: all 0.1s ease
-    -webkit-transition: all 0.1s ease
-    -o-transition: all 0.1s ease
-    -moz-transition: all 0.1s ease
-  &.active
-    font-size: 24px
-    transition: all 0.1s ease
-    -webkit-transition: all 0.1s ease
-    -o-transition: all 0.1s ease
-    -moz-transition: all 0.1s ease
-    font-size: 24px
-    color: #fff
-    transition: all 0.1s ease
-    -webkit-transition: all 0.1s ease
-    -o-transition: all 0.1s ease
-    -moz-transition: all 0.1s ease
-
-div.organization-indicators span
-  &:hover, &:focus
-    font-size: 24px
-    color: #0098ff
 
 .transports-list
   text-align: center
@@ -131,120 +140,3 @@ div.organization-indicators span
     max-width: 320px
   @media(min-width: 1200px)
     margin: 0 0 20 0
-
-
-/* Medium*/
-@media (min-width: 992px) and (max-width: 1199px)
-  div.staff-info-container
-    height: 162px
-    width: 162px
-  span.staff-name
-    font-size: 16px
-  .staff-position
-    font-size: 12px
-  section .staff-info ul.social-buttons li a
-    height: 30px
-    width: 30px
-    font-size: 14px
-    line-height: 30px
-
-/* Small*/
-@media (min-width: 768px) and (max-width: 991px)
-  div.staff-info-container
-    height: 124px
-    width: 124px
-  section .staff-info ul.social-buttons li a
-    height: 18px
-    width: 18px
-    font-size: 9px
-    line-height: 18px
-    margin-bottom: -10px
-    margin-left: 10px
-  span
-    &.staff-name
-      font-size: 14px
-    &.staff-position
-      font-size: 9px
-
-@media (max-width: 767px)
-  div.staff-info-container
-    height: 186px
-    width: 186px
-  section .staff-info ul.social-buttons
-    li a
-      height: 30px
-      width: 30px
-      font-size: 14px
-      line-height: 30px
-    margin-bottom: 5px
-  span
-    &.staff-name
-      font-size: 14px
-    &.staff-position
-      font-size: 11px
-
-@media (max-width: 717px)
-  div.staff-info-container
-    height: 170px
-    width: 170px
-
-@media (max-width: 667px)
-  div.staff-info-container
-    height: 160px
-    width: 160px
-  section .staff-info ul.social-buttons li a
-    height: 20px
-    width: 20px
-    font-size: 11px
-    line-height: 20px
-
-@media (max-width: 617px)
-  div.staff-info-container
-    height: 145px
-    width: 145px
-
-@media (max-width: 567px)
-  div.staff-info-container
-    height: 130px
-    width: 130px
-
-@media (max-width: 517px)
-  div.staff-info-container
-    height: 117px
-    width: 117px
-  span
-    &.staff-name
-      font-size: 12px
-    &.staff-position
-      font-size: 8px
-
-@media (max-width: 467px)
-  div.staff-info-container
-    height: 105px
-    width: 105px
-  span
-    &.staff-name
-      font-size: 7px
-    &.staff-position
-      display: none
-
-@media (max-width: 417px)
-  div.staff-info-container
-    height: 93px
-    width: 93px
-
-
-@media (max-width: 387px)
-  div.staff-info-container
-    height: 85px
-    width: 85px
-
-@media (max-width: 357px)
-  div.staff-info-container
-    height: 77px
-    width: 77px
-
-@media (max-width: 337px)
-  div.staff-info-container
-    height: 72px
-    width: 72px

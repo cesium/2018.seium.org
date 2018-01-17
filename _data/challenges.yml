@@ -33,8 +33,7 @@
 - name: Desafio do dia
   desc: Todos os dias há um novo desafio.<br>
         <br>Tenta a tua sorte! Só tens que ser o mais rápido a resolvê-lo!
-
-  class: light
+  class: dark
   prizes:
     - name: A anunciar
       link:
@@ -44,7 +43,7 @@
 - name: Tudo por um badge!
   desc: Queres mesmo ter o maior número de badges?<br>
         <br>Vence estes pequenos desafios e podes ganhar mais um!
-  class: dark
+  class: light
   prizes:
     - name: Badge extra
       link: 
