@@ -45,17 +45,17 @@
 <![endif]-->
 
 <!-- Custom CSS -->
-<link type="text/css" rel="stylesheet" href="/2018.seium.org/assets/main-c386e648ebf5a2da1b8fa2ba6cfa4d6b7c87b8b7f6961da4462cd2dcfd27e94f.css">
+<link type="text/css" rel="stylesheet" href="/2018.seium.org/assets/main-4e49b1b3624f57a2a7ba8ffc0a75d243dd37912ac9d26a4b01aa2b2e3a8af54f.css">
 
 <!-- Google Analytics -->
 <script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-67237593-5', 'auto');
-ga('send', 'pageview');
+   	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    
+    ga('create', 'UA-67237593-8', 'auto');
+    ga('send', 'pageview');
 </script>
 
   </head>
@@ -69,7 +69,7 @@ ga('send', 'pageview');
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
         <i class="fa fa-bars"></i>
       </button>
-      <a class="navbar-brand page-scroll" href="/" id="nav-logo">
+      <a class="navbar-brand page-scroll" href="/2018.seium.org/" id="nav-logo">
         <img src="/2018.seium.org/assets/nav-logo-8a230ad681ce95cd9d2f2fe24d944565d2b57c894f5cbb02e3b9d2e8dbdd77de.png" width="336" height="336" alt="nav-logo.png">
         <div>
           <span>
@@ -88,29 +88,32 @@ ga('send', 'pageview');
           <li class="hidden">
             <a href="#page-top"></a>
           </li>
-         <!-- <li>
-            <a class="page-scroll" href="/agenda">Agenda</a>
+         <li>
+            <!--<a class="page-scroll" href="/agenda">Agenda</a>-->
+            <a class="page-scroll disabled">Agenda</a>
           </li>
           <li>
-            <a class="page-scroll" href="/speakers">Oradores</a>
+            <a class="page-scroll" href="speakers">Oradores</a>
           </li>
           <li>
-            <a class="page-scroll" href="/hackathon">Hackathon</a>
-          </li>-->
-          <li>
-            <a class="page-scroll" href="2018.seium.org/challenges">Desafios</a>
+            <!--<a class="page-scroll" href="http://hacktivate.io/" target="_blank">Hackathon</a>-->
+            <a class="page-scroll disabled">Hackathon</a>
           </li>
           <li>
-            <a class="page-scroll" href="2018.seium.org/getting-here">Como chegar</a>
+            <a class="page-scroll" href="challenges">Desafios</a>
+          </li>
+          <li>
+            <a class="page-scroll" href="getting-here">Como chegar</a>
+          </li>
+          <li>
+            <a class="page-scroll" href="staff">Equipa</a>
           </li>
           <!--<li>
-            <a class="page-scroll" href="/staff">Equipa</a>
-          </li>
-          <li>
             <a class="page-scroll" href="http://intra.seium.org" target="_blank">IntraNet</a>
           </li>-->
           <li>
-            <a class="page-scroll" href="https://seium18.eventbrite.pt" target="_blank">Inscrições</a>
+            <!--<a class="page-scroll" href="https://seium18.eventbrite.pt" target="_blank">Inscrições</a>-->
+            <a class="page-scroll disabled">Inscrições</a>
           </li>
         <!--  <li>
             <a class="page-scroll" href="http://intra.seium.org/users/sign_in" target="_blank">Badges</a>
@@ -129,59 +132,84 @@ ga('send', 'pageview');
 
     <div class="col-md-offset-2 col-md-8 def-text">
 
-      Se não sabes exatamente como chegar à SEI, nós ajudamos. Usufrui de bilhetes de comboio a preço super especial, graças à nossa <a style="color: #0098ff; text-decoration: underline" href="https://www.facebook.com/SEI.UMinho/photos/a.304482826408115.1073741828.304158836440514/703592683163792/?type=3&theater" target="_blank">parceria</a> com a CP - Comboios de Portugal, ou vem por meios próprios. O que não podes é perder esta edição da tua semana favorita.
+      Se não sabes exatamente como chegar à SEI, nós ajudamos. Usufrui de bilhetes de comboio a preço super especial, graças à nossa parceria com a CP - Comboios de Portugal, ou vem por meios próprios. O que não podes é perder esta edição da tua semana favorita.
 
     </div>
 
     <div class="transports-list">
       
       <div class="transports-list-cell">
-        <a href="#localização"/>
         <div class="transport-img">
-          <img src="/2018.seium.org/assets/icons/location-icon-white-bf754dd03176430b503bafd44f51bae7354199f0e00647e302634baa969f82a8.png" class="transport-pic" width="64" height="64" alt="icons/location-icon-white.png">
+          <a href="#comboio"/>
+          <img src="/2018.seium.org/assets/icons/train-icon-9af686cd95b2ea701364d7b711e15502e399cb49f2d68f9121cc34e041ff213c.png" class="transport-pic" width="65" height="64" alt="icons/train-icon.png">
         </div>
-        <span class="transport-name">localização</span>
+        <span class="transport-name">comboio</span>
+      </div>
+      
+      <div class="transports-list-cell">
+        <div class="transport-img">
+          <a href="#autocarro"/>
+          <img src="/2018.seium.org/assets/icons/bus-icon-5b29a8b5be048415d457f1c18674fddaca091bad370f779d8eab272a8610d9b6.png" class="transport-pic" width="65" height="64" alt="icons/bus-icon.png">
+        </div>
+        <span class="transport-name">autocarro</span>
+      </div>
+      
+      <div class="transports-list-cell">
+        <div class="transport-img">
+          <a href="#carro"/>
+          <img src="/2018.seium.org/assets/icons/car-icon-4c1c398274cfc3bab9b569c45be4a9d82ccb03c3a6e634dc71318c7154fae62a.png" class="transport-pic" width="65" height="64" alt="icons/car-icon.png">
+        </div>
+        <span class="transport-name">carro</span>
       </div>
       
     </div>
+  </div>
 
-    <div class="text-center" id="location">
-      <iframe class="center-block" id="google-maps" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJL4bubp3-JA0RIa4y7zUxqng&key=AIzaSyDh4ixf3YXb8V63gppWG_jsyy6xguk9UbQ" allowfullscreen></iframe>
-    </div>
-
-    <!--div id="train">
+  <section id="comboio">
+    <div class="container">
+      <div class="section-title-container">
+        <h1 class="section-title">Comboio</h1>
+      </div>            
       <div class="row">
-        <div class="col-md-offset-2 col-md-3">
-          <img class="img-responsive" src="/assets/sponsors/cp-logo.png">
-        </div>
         <div class="col-md-offset-1 col-md-4">
-          <p>Recorrendo ao portal da CP poderá consultar todos os horários e as linhas disponíveis para chegar a Braga. O autocarro 43 dos TUB faz o percurso desde a estação da CP até ao campus de Gualtar, com partidas de 15 em 15 minutos.</p>
+          <img src="/2018.seium.org/assets/sponsors/cp-logo-b882aef62c113a1f4ccff2c0416c1f5e35558c9c2be2a7a3844ad90b90a035c5.png" class="img-responsive" width="1200" height="495" alt="sponsors/cp-logo.png">
         </div>
+      <div class="col-md-offset-1 col-md-5 transport-desc">
+        <p>De 5 a 9 de fevereiro, podes viajar por 2,00€ ida e volta, nos comboios Urbanos do Porto com destino a Braga (linhas de Braga, Marco de Canaveses, Guimarães e Aveiro).</p>
+        
+        <p>Estes bilhetes especiais serão vendidos nas bilheteiras ou a bordo, no dia da viagem (se no local de embarque não estiver disponível bilheteira), e basta apresentar o comprovativo de inscrição na SEI'18 e o teu documento de identificação, no ato da compra do bilhete de comboio e da fiscalização a bordo.</p>
       </div>
     </div>
+  </div>
+</section>
 
-    <div id="bus">
-      <div class="row">
-        <div class="col-md-offset-2 col-md-4">
-          
+<section id="autocarro">
+  <div class="container">
+    <div class="section-title-container">
+      <h1 class="section-title">Autocarro</h1>
+    </div>            
+    <div class="row">
+      <div class="col-xs-offset-2 col-xs-8 col-sm-offset-1 col-sm-10 col-md-offset-1 col-md-3 transport-bus">
+          <img src="/2018.seium.org/assets/sponsors/tub-ee786f7470df88998da2ea6747d49aad6e843d3dad02fbf52d5994c3d841c9c0.png" class="img-responsive" width="1883" height="1042" alt="sponsors/tub.png">
         </div>
-        <div class="col-md-4">
-          <h5>Poderá viajar desde o centro e arredores de Braga até ao campus de Gualtar recorrendo aos diversos autocarros dos Transportes Urbanos de Braga (TUB). A partir de outras cidades do país existem diversas companhias com autocarros directos até Braga. A Rede Expressos possui a cobertura mais alargada. Os autocarros regionais e expresso terminam a sua viajem na central de camionagem, no centro da cidade.</h5>
-        </div>
-      </div>
+    <div class="col-md-offset-2 col-md-5 transport-desc">
+      <p>Poderá viajar desde o centro e arredores de Braga até ao Campus de Gualtar recorrendo aos diversos autocarros dos Transportes Urbanos de Braga (TUB). A partir de outras cidades do país existem diversas companhias com autocarros diretos até Braga. A Rede Expressos possui a cobertura mais alargada. Os autocarros regionais e expresso terminam a sua viagem na central de camionagem, no centro da cidade.</p>
     </div>
+  </div>
+</section>
 
-    <div id="car">
-      <div class="row">
-        <div class="col-md-offset-2 col-md-4">
-          
-        </div>
-        <div class="col-md-4">
-          <h5>Para o campus de gualtar deverá introduzir como ponto de chegada a seguinte morada: Rua da Universidade, Gualtar, Portugal ou as seguintes coordenadas GPS 41.56131, -8.393804</h5>
-        </div>
+<section id="carro">
+  <div class="container">
+    <div class="section-title-container">
+      <h1 class="section-title">Carro</h1>
+    </div>            
+    <div class="row">
+      <div class="col-md-5 text-center googleMaps-col">
+        <iframe class="center-block" id="google-maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2985.432470973233!2d-8.39983718456886!3d41.55988387924861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24fe9d967b3e7b%3A0x8e7b5fcf6deed3b!2sComplexo+Pedag%C3%B3gico+II+-+UMinho!5e0!3m2!1spt-PT!2spt!4v1516222853906" allowfullscreen></iframe>
       </div>
-    </div> -->
-
+      <div class="col-md-offset-1 col-md-5 transport-desc">
+        <p>Para o Campus de Gualtar deverá introduzir como ponto de chegada a seguinte morada: <b>Rua da Universidade, Gualtar, Portugal</b> ou as seguintes coordenadas GPS <b>41.56131</b>, <b>-8.393804</b></p>
+      </div>
   </div>
 </section>
 
@@ -198,7 +226,7 @@ ga('send', 'pageview');
       <a href="http://www.github.com/cesium"><i class="fa fa-github fa-2x"></i></a>
       <a href="https://twitter.com/cesiuminho"><i class="fa fa-twitter fa-2x"></i></a>
 
-      <p><a href="http://2018.seium.org" target="_blank"> Previous edition</a> ||
+      <p><a href="http://2017.seium.org" target="_blank"> Previous edition</a> ||
 
       
 
