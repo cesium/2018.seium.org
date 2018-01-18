@@ -9485,12 +9485,6 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
     width: 100%;
     margin-bottom: 4vh; }
 
-@media (max-width: 768px) {
-  .partner {
-    max-height: 120px;
-    min-height: 68px;
-    min-width: 100px; } }
-
 .vcenter {
   display: inline-block;
   vertical-align: middle;
@@ -9506,14 +9500,18 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
   .narrow-logo img {
     width: 65%; }
 
-.narrow-logo-delta {
+.wide-logo-delta {
   width: 250px;
-  margin: auto; }
-  .narrow-logo-delta img {
-    width: 65%; }
-@media(max-width: 768px) {
-  .narrow-logo-delta img {
-    width: 40%; } }
+  margin: 10px 10px 10px 10px; }
+  .wide-logo-delta img {
+    width: 50%; }
+
+.wide-logo-tub {
+  width: 250px;
+  margin: 10px 10px 10px 10px; }
+  .wide-logo-tub img {
+    width: 70%; }
+
 .normal-logo {
   width: 250px;
   margin: auto 50px; }
@@ -9529,18 +9527,14 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
   margin: 10px 10px 10px 10px; }
 
 .partners-carousel {
-  padding-bottom: 5vh; }
+  margin-bottom: 30px; }
   .partners-carousel .slick-track {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
         -ms-flex-align: center;
-            align-items: center;
-    margin: 6vh 0; }
-    @media (max-width: 768px) {
-      .partners-carousel .slick-track {
-        min-height: 120px; } }
+            align-items: center; }
     .partners-carousel .slick-track .slick-arrow::before {
       font-size: 25px; }
   .partners-carousel .slick-dots {
