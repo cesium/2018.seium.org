@@ -1,48 +1,23 @@
-- name: Martinho Aragão
-  pic: martinho-aragao.jpg
-  website: http://martinhoaragao.me
-  github: https://github.com/martinhoaragao
-  linkedin: https://pt.linkedin.com/in/martinhoaragao
-
-- name: Gil Gonçalves
-  pic: gil-goncalves.jpg
-  github: https://github.com/GIlGoncalves
-  linkedin: https://www.linkedin.com/profile/view?id=AAMAABuOz5YBiDT6gTHn9ugA4OCrTqW1ezGPQYc
-
 - name: Inês Sampaio
   pic: inessampaio.jpg
   twitter: https://twitter.com/InesSampaio9
   github: https://github.com/ines36
   linkedin: https://www.linkedin.com/in/in%C3%AAs-sampaio-19790955/
 
+- name: Martinho Aragão
+  pic: martinho-aragao.jpg
+  website: http://martinhoaragao.me
+  github: https://github.com/martinhoaragao
+  linkedin: https://pt.linkedin.com/in/martinhoaragao
+
 - name: Bruno Cancelinha
   pic: brunocancelinha.jpg
   github: https://github.com/9thScientist
-
-- name: Francisco Costa
-  pic: francisco-costa.jpg
-  github: https://github.com/xicon73
-
-- name: João Coelho
-  pic: joao-coelho.jpg
-  github: https://github.com/joao-coelho
-  twitter: joaocbonn
-  linkedin: https://www.linkedin.com/in/joão-coelho
-
-- name: André Teixeira
-  pic: andre-teixeira.jpg
-  github: https://github.com/Nein
 
 - name: Francisco Lira
   pic: franciscolira.jpg
   github: https://github.com/FranciscoLira
   twitter: franlira12
-
-- name: Luís Fernandes
-  pic: luisfernandes.jpg
-  github: https://github.com/SkyBad20
-  twitter: https://twitter.com/Luismf20
-  linkedin: https://www.linkedin.com/in/luis-mfernandes20/
 
 - name: Francisco Ribeiro
   pic: Kiko_staff.jpg
@@ -52,8 +27,34 @@
   pic: hugobrandao.jpg
   github: https://github.com/jhugobb
 
+- name: João Coelho
+  pic: joao-coelho.jpg
+  github: https://github.com/joao-coelho
+  twitter: joaocbonn
+  linkedin: https://www.linkedin.com/in/joão-coelho
+
+- name: Luís Neto
+  pic: luisneto.jpg
+
+- name: Francisco Costa
+  pic: franciscocosta.jpg
+  github: https://github.com/xicon73
+
+- name: Luís Fernandes
+  pic: luisfernandes.jpg
+  github: https://github.com/SkyBad20
+  twitter: https://twitter.com/Luismf20
+  linkedin: https://www.linkedin.com/in/luis-mfernandes20/
+
+- name: André Teixeira
+  pic: andre-teixeira.jpg
+  github: https://github.com/Nein
+
 - name: João Cabo
   pic: joaocabo.jpg
+
+- name: Rui Souto
+  pic: ruisouto.jpg
 
 - name: Lúcia Abreu
   pic: lucia-abreu.jpg
@@ -61,6 +62,16 @@
   linkedin: https://www.linkedin.com/in/lmvda
 
 - name: José Macedo
-  pic: jose-macedo.jpg
+  pic: zenuno.jpg
   github: https://github.com/zenunomacedo
 
+- name: Gil Gonçalves
+  pic: gil-goncalves.jpg
+  github: https://github.com/GIlGoncalves
+  linkedin: https://www.linkedin.com/profile/view?id=AAMAABuOz5YBiDT6gTHn9ugA4OCrTqW1ezGPQYc
+
+- name: Dinis Peixoto
+  pic: dinis-peixoto.jpg
+
+- name: Maria Dias
+  pic: mariadias.jpg
