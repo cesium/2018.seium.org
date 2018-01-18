@@ -9414,7 +9414,7 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
   div.staff-info-container {
     height: 72px;
     width: 72px; } }
-#exclusive, #gold, #silver, #bronze {
+#exclusive, #gold, #silver, #bronze, #partners {
   background: url("/assets/backgrounds/light-touch.png") no-repeat center center;
   background-size: cover;
   -o-background-size: cover;
@@ -9422,21 +9422,12 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
   color: #fff;
   padding-bottom: 20px;
   text-align: center; }
-  #exclusive .section-title, #gold .section-title, #silver .section-title, #bronze .section-title {
+  #exclusive .section-title, #gold .section-title, #silver .section-title, #bronze .section-title, #partners .section-title {
     text-align: center;
     border-color: #EAEAEA; }
 
 #partners {
-  background: url("/assets/backgrounds/light-stuff.png") no-repeat center center;
-  background-size: cover;
-  -o-background-size: cover;
-  background-attachment: scroll;
-  color: #fff;
-  padding-bottom: 20px;
-  text-align: center; }
-  #partners .section-title {
-    text-align: center;
-    border-color: #EAEAEA; }
+  background: url("/assets/backgrounds/light-stuff.png") no-repeat center center; }
 
 #partners-heading {
   border: 5px solid;
@@ -9531,19 +9522,16 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
   width: 250px;
   margin: 10px 10px 10px 10px; }
 
-@media (min-width: 998px) {
-  .short-row {
-    height: 100px; } }
-
 .partners-carousel {
-  margin-bottom: 50px; }
+  padding-bottom: 5vh; }
   .partners-carousel .slick-track {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
         -ms-flex-align: center;
-            align-items: center; }
+            align-items: center;
+    margin: 6vh 0; }
     .partners-carousel .slick-track .slick-arrow::before {
       font-size: 25px; }
   .partners-carousel .slick-dots {
