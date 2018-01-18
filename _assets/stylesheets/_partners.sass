@@ -64,6 +64,12 @@
     width: 100%
     margin-bottom: 4vh
 
+.partner
+  @media (max-width: 768px)
+    max-height: 120px
+    min-height: 68px
+    min-width: 100px
+
 .vcenter 
   display: inline-block
   vertical-align: middle
@@ -108,6 +114,8 @@
     display: flex
     align-items: center
     margin: 6vh 0
+    @media (max-width: 768px)
+      min-height: 120px
     .slick-arrow::before
       font-size: 25px
   .slick-dots
