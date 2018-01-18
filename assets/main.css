@@ -9427,7 +9427,10 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
     border-color: #EAEAEA; }
 
 #partners {
-  background: url("/assets/backgrounds/light-stuff.png") no-repeat center center; }
+  background: url("/assets/backgrounds/light-stuff.png") no-repeat center center;
+  background-size: cover;
+  -o-background-size: cover;
+  background-attachment: scroll; }
 
 #partners-heading {
   border: 5px solid;
