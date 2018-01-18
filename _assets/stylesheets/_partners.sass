@@ -1,6 +1,20 @@
 
-#exclusive, #gold, #silver, #bronze, #partners
+#exclusive, #gold, #silver, #bronze
   background: url(image_path("backgrounds/light-touch.png")) no-repeat center center
+  -webkit-background-size: cover
+  -moz-background-size: cover
+  background-size: cover
+  -o-background-size: cover
+  background-attachment: scroll
+  color: #fff
+  padding-bottom: 20px
+  text-align: center
+  .section-title
+    text-align: center
+    border-color: #EAEAEA
+
+#partners
+  background: url(image_path("backgrounds/light-stuff.png")) no-repeat center center
   -webkit-background-size: cover
   -moz-background-size: cover
   background-size: cover
@@ -75,6 +89,15 @@
   margin: auto
   img
     width: 65%
+
+.narrow-logo-delta
+  width: 250px 
+  margin: auto
+  img
+    width: 65%
+  @media(max-width: 768px)
+    img
+      width: 40%
 
 .normal-logo 
   width: 250px 
