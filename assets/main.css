@@ -9485,6 +9485,12 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
     width: 100%;
     margin-bottom: 4vh; }
 
+@media (max-width: 768px) {
+  .partner {
+    max-height: 120px;
+    min-height: 68px;
+    min-width: 100px; } }
+
 .vcenter {
   display: inline-block;
   vertical-align: middle;
@@ -9532,6 +9538,9 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
         -ms-flex-align: center;
             align-items: center;
     margin: 6vh 0; }
+    @media (max-width: 768px) {
+      .partners-carousel .slick-track {
+        min-height: 120px; } }
     .partners-carousel .slick-track .slick-arrow::before {
       font-size: 25px; }
   .partners-carousel .slick-dots {
