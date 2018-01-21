@@ -10728,6 +10728,24 @@ li {
 @media(min-width: 1200px) {
   .transports-list-cell {
     margin: 0 0 20 0; } }
+#badges {
+  background-attachment: fixed;
+  background-image: url("/assets/backgrounds/dark-stuff.png");
+  background-position: center center;
+  background-repeat: none;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 100%;
+  padding-bottom: 30px; }
+  #badges .section-title {
+    margin-top: 70px; }
+
+.img-responsive {
+  max-width: 70%; }
+  @media (max-width: 992px) {
+    .img-responsive {
+      max-width: 100%; } }
+
 /* Slider */
 .slick-slider {
   position: relative;
