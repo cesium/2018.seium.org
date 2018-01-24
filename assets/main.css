@@ -10732,19 +10732,23 @@ li {
   background-attachment: fixed;
   background-image: url("/assets/backgrounds/dark-stuff.png");
   background-position: center center;
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-size: cover;
   -o-background-size: cover;
-  height: 100%;
-  padding-bottom: 30px; }
+  padding: 5% 0 15% 0; }
   #badges .section-title {
-    margin-top: 70px; }
+    margin-top: 5%;
+    margin-bottom: 5%; }
+    @media (max-width: 992px) {
+      #badges .section-title {
+        margin-top: 50px;
+        margin-bottom: 50px; } }
 
 .badge-pic {
   max-width: 60%; }
   @media (max-width: 992px) {
     .badge-pic {
-      max-width: 100%; } }
+      margin: auto; } }
 
 /* Slider */
 .slick-slider {
