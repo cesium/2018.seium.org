@@ -32,7 +32,7 @@
 
 - name: Desafio do dia
   desc: Todos os dias há um novo desafio.<br>
-        <br>Tenta a tua sorte! Só tens que ser o mais rápido a resolvê-lo!
+        <br>Tenta a tua sorte! Sê o mais perspicaz a resolvê-lo!
   class: dark
   prizes:
     - name: A anunciar
