@@ -52,7 +52,17 @@
   about: Indie Android developer. Apps, Kernels, mutative design e muito mais desde 2011! Pensador “out-of-the-box”.
   id: 5
 
+- name: Job van der Voort
+  pic: jobvanderVoort.jpg
+  position: VP of Product
+  enterprise: GitLab
+  enterpriseURL: https://about.gitlab.com/
+  twitter: https://twitter.com/jobvo
+  github: https://github.com/JobV
+  about: Vindo da neurociência, Job iniciou-se no mundo da tecnologia criando uma startup, mais tarde trabalhando com a infraestrutura da Dutch IT e eventualmente acabou por se juntar à GitLab. Na GitLab fez de tudo, desde suporte, engenharia ou mesmo marketing, tendo, por último, se estabelecido como VP of Product, orientando o produto da empresa. No seu tempo livre, Job gosta de construir aplicações pequenas e úteis e jogar jogos de tabuleiro.
+  id: 6
+
 - name: Mais oradores
   pic: tba.png
   position: Brevemente
-  id: 6
+  id: 7
