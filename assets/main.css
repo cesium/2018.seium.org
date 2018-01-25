@@ -9294,7 +9294,7 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
         -ms-flex-direction: row;
             flex-direction: row; } }
 .speakers-list-cell {
-  min-width: 200px;
+  min-width: 300px;
   text-align: center;
   -ms-flex-item-align: start;
       align-self: flex-start;
