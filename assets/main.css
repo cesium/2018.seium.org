@@ -9515,6 +9515,12 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
   .wide-logo-tub img {
     width: 70%; }
 
+.wide-logo-outsystems {
+  width: 250px;
+  margin: 10px 10px 10px 10px; }
+  .wide-logo-outsystems img {
+    width: 80%; }
+
 .normal-logo {
   width: 250px;
   margin: auto 50px; }
@@ -9546,9 +9552,15 @@ div.organization-indicators span:hover, div.organization-indicators span:focus {
       color: #fff;
       font-size: 20px; }
 
-#critical {
-  width: 120px;
-  heigth: 120px; }
+.critical-logo {
+  width: 100px;
+  heigth: 100px;
+  margin: auto 50px; }
+
+.bitsonae-logo {
+  width: 150px;
+  heigth: 150px;
+  margin: auto 50px; }
 
 #staff {
   padding-bottom: 75px;
