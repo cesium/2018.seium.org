@@ -4,12 +4,6 @@
       <h1 class="section-title">Agenda</h1>
     </div>
 
-    <div class="col-md-offset-2 col-md-8 def-text">
-
-      Apesar de ainda não estar completa, damos-te a conhecer a agenda da semana até ao momento, para que possas, desde já, começar a planear a tua semana favorita!
-
-    </div>
-
     <div class="col-md-12">
       <div class="col-md-10 col-md-offset-1">
        <div class="col-md-12 agenda-carousel agenda-wrapper">
@@ -32,7 +26,11 @@
               <div class="agenda-activity">
                 <div class="activity-time">{{ act.time }}</div>
                 <a href="#{{ act.name | slugify }}">
+                  {% if act.tba %}
+                  <div class="activity-tba-block {{ act.duration }} text-left">
+                  {% else %}
                   <div class="activity-block {{ act.duration }} text-left">
+                  {% endif %} 
                     <div class="activity-border"></div>
                     <div class="activity-name"><b>{{ act.name }}</b></div>
                     {% if (act.speaker and act.enterprise) %}

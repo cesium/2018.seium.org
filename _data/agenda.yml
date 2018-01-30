@@ -55,7 +55,7 @@
       type: talk 
       about: IT Strategy & Enterprise Architecture
 
-    - name: A anunciar [Web/Criptomoedas]
+    - name: TBA
       speaker: João Pina
       enterprise: MeshApp
       enterpriseURL: https://meshapp.me/
@@ -63,6 +63,7 @@
       duration: one-hour
       icon: fa-btc
       type: talk
+      tba: true
 
     - coffee: true
     
@@ -95,14 +96,14 @@
   date: 6 FEV
   dayOfWeek: TERÇA
   activities:
-#    - name: A anunciar
-#      time: 9:30-11:30
-#      duration: two-hours
-#      type: workshop
-#      about: A anunciar
-#      icon: fa-road
+    - name: TBA
+      time: 9:30-11:30
+      duration: two-hours
+      type: workshop
+      icon: fa-road
+      tba: true
 
-#    - coffee: true
+    - coffee: true
 
     - name: Evening the Odds in the Digital Fraud War
       speaker: Carlos Martins & Raul Azevedo
@@ -116,6 +117,13 @@
 
     - meal: true
 
+    - name: TBA
+      time: 14:00-15:00
+      duration: one-hour
+      type: talk
+      icon: fa-road
+      tba: true
+
 #    - name: Artificial Intelligence @ Accenture
 #      speaker: Pedro Couto
 #      enterprise: Accenture
@@ -125,7 +133,7 @@
 #      icon: fa-level-up
 #      about: Machine Learning
 
-    - name: A anunciar
+    - name: TBA
       speaker: Filipa Lacerda & Pedro Moreira da Silva
       enterprise: GitLab
       enterpriseURL: https://about.gitlab.com/
@@ -133,6 +141,7 @@
       duration: one-hour
       icon: fa-question
       type: talk
+      tba: true
 
     - coffee: true
 
@@ -146,13 +155,10 @@
       icon: fa-lock
       type: talk
       
-#    - name: A anunciar
-#      speaker: A anunciar
-#      time: 17:30-18:30 
-#      duration: one-hour
-#      icon: fa-cogs
-#      type: A anunciar
-#      about: A anunciar
+    - name: TBA
+      time: 17:30-18:30 
+      duration: one-hour
+      tba: true
 
     - name: Arraial 
       time: 22:00-00:00
@@ -163,16 +169,15 @@
   date: 7 FEV
   dayOfWeek: QUARTA
   activities:
-#    - name: A anunciar
-#      speaker: A anunciar
-#      enterprise: Blip
-#      type: workshop
-#      time: 9:30-11:30
-#      duration: two-hours
-#      icon: fa-mobile
-#      about: A anunciar
+    - name: TBA
+      enterprise: Blip
+      type: workshop
+      time: 9:30-11:30
+      duration: two-hours
+      icon: fa-mobile
+      tba: true
 
-#    - coffee: true
+    - coffee: true
 
     - name: Transforming Mobility
       speaker: José Carreiras & Eduardo Afonso
@@ -185,21 +190,21 @@
     
     - meal: true
 
-    - name: A anunciar [Kernel Android]
+    - name: TBA
       speaker: Francisco Franco
       type: talk
       time: 14:00-15:00
       duration: one-hour
       icon: fa-android
+      tba: true 
 
-#    - name: A anunciar
-#      speaker: A anunciar
-#      time: 15:00-16:00
-#      duration: one-hour
-#      type: talk
-#      about: A anunciar
+    - name: TBA
+      time: 15:00-16:00
+      duration: one-hour
+      type: talk
+      tba: true
 
-#    - coffee: true
+    - coffee: true
 
     - name: "DevOps: metodologia de desenvolvimento com GitLab"
       speaker: André Rocha
@@ -211,11 +216,11 @@
       about: DevOps
       icon: fa-wrench
       
-#    - name: Women In Tech
-#      speaker: A anunciar
-#      time: 17:30-18:30
-#      type: Tertulia
-#      duration: one-hour
+    - name: TBA
+      time: 17:30-18:30
+      type: Tertulia
+      duration: one-hour
+      tba: true
 
     - name: Rally das Tascas
       time: 22:00-00:00
@@ -236,88 +241,80 @@
       icon: fa-android
       about: Android
 
-#    - coffee: true
+    - coffee: true
 
-#    - name: A anunciar
-#      speaker: A anunciar
-#      time: 12:00-13:00
-#      duration: one-hour
-#      icon: fa-coffee
-#      enterprise: A anunciar
-#      type: talk
-#      about: A anunciar
+    - name: TBA
+      time: 12:00-13:00
+      duration: one-hour
+      icon: fa-coffee
+      type: talk
+      tba: true
 
-#    - meal: true
+    - meal: true
 
-#    - name: A anunciar
-#      speaker: A anunciar
-#      time: 14:00-15:00
-#      duration: one-hour
-#      icon: fa-lightbulb-o
-#      enterprise: Talkdesk
-#      type: talk
-#      about: A anunciar
+    - name: TBA
+      time: 14:00-15:00
+      duration: one-hour
+      icon: fa-lightbulb-o
+      enterprise: Talkdesk
+      type: talk
+      tba: true
 
-#    - name: A anunciar
-#      speaker: Ivo Duarte
-#      time: 15:00-16:00
-#      duration: one-hour
-#      about: A anunciar
-#      type: talk
-#      icon: fa-share-alt
+    - name: TBA
+      time: 15:00-16:00
+      duration: one-hour
+      type: talk
+      icon: fa-share-alt
+      tba: true
     
-#    - coffee: true
+    - coffee: true
     
-#    - name: A anunciar
-#      speaker: A anunciar
-#      enterprise: itGrow //A anunciar
-#      time: 16:30-17:30
-#      duration: one-hour
-#      about: A anunciar
-#      icon: fa-keyboard-o
-#      type: talk
-#      about: A anunciar
+    - name: TBA
+      enterprise: itGrow
+      time: 16:30-17:30
+      duration: one-hour
+      icon: fa-keyboard-o
+      type: talk
+      tba: true
 
-#    - name: A anunciar
-#      speaker: Miguel Amador, Tiago Aires Mateus & Fernando Mendes
-#      time: 17:30-18:30
-#      duration: one-hour 
-#      about: Cryptocurrency
-#      icon: fa-file-code-o
-#      type: Tertulia 
+    - name: TBA
+      #speaker: Miguel Amador, Tiago Aires Mateus & Fernando Mendes
+      time: 17:30-18:30
+      duration: one-hour 
+      icon: fa-file-code-o
+      type: Tertulia 
+      tba: true
 
 - friday:
   date: 9 FEV
   dayOfWeek: SEXTA
   activities:
-#    - name: A anunciar
-#      speaker: A anunciar
-#      type: workshop
-#      enterprise: 
-#      time: 09:30-11:30
-#      duration: two-hours
-#      icon: fa-table
-#      about: Unity
+    - name: TBA
+      type: workshop
+      time: 09:30-11:30
+      duration: two-hours
+      icon: fa-table
+      tba: true
 
-#    - coffee: true
+    - coffee: true
 
-    - name: A anunciar
+    - name: TBA
       speaker: Mike Elsmore
       type: talk
       time: 12:00-13:00
       duration: one-hour
+      tba: true
 
     - meal: true
 
-#    - name: A anunciar 
-#      speaker: A anunciar
-#      enterprise: Farfetch
-#      enterpriseURL: https://www.farfetch.com
-#      time: 14:00-15:00
-#      duration: one-hour
-#      icon: fa-code
-#      about: A anunciar
-#      type: talk
+    - name: TBA
+      enterprise: Farfetch
+      enterpriseURL: https://www.farfetch.com
+      time: 14:00-15:00
+      duration: one-hour
+      icon: fa-code
+      tba: true
+      type: talk
 
     - name: Kotlin in 42 minutes
       speaker: Eugene Petrenko
