@@ -71,7 +71,49 @@
   about: Senior UX Designer na GitLab, uma ferramenta open source para o desenvolvimento de software, usada por organizações como NASA, Sony e Uber. Trabalhou em consultoras, startups e como designer independente. Apaixonado por transparência, trabalho remoto e design aberto.
   id: 7
 
+- name: Miguel Ramos
+  pic: miguelramos.png
+  position: Machine Learning Scientist
+  enterprise: Unbabel
+  enterpriseURL: https://unbabel.com/
+  twitter: https://twitter.com/its_mikevr
+  github: https://github.com/miguelvr
+  about: Já tendo trabalhado como investigador no L2F/INESC-ID Lisboa e no Language Technologies Institute da Carnegie Mellon University, Miguel trabalha actualmente como Machine Learning Scientist na equipa de inteligência artificial da Unbabel.
+  id: 8
+
+- name: André Rocha
+  pic: andre-rocha-eurotux.jpg
+  position: Senior Web Developer
+  enterprise: Eurotux
+  enterpriseURL: https://eurotux.com/
+  about: André Rocha tem mais de seis anos de experiência em desenvolvimento web. Integrou as equipas de projeto dos websites do Pingo Doce, Dinheiro Vivo, BPI Expresso Imobiliário, Unibanco, eVotUM e Vida Económica, entre outros. Formou-se em Ciências da Computação pela Universidade do Minho e é pós-graduado em Computação Paralela e Distribuída, complementado com Engenharia e Processamento de Linguagens. Adicionalmente, passou pela University of Texas at Austin para aprofundar o seu conhecimento em escalabilidade e optimização de software. Tem artigos sobre virtualização e clustering, assim como sobre análise e desenvolvimento de software, publicados em revistas científicas e apresentados em conferências de cariz internacional.  Atualmente, integra a Dipcode, empresa do Grupo Eurotux, na área de Desenvolvimento Web, como Senior Web Developer. Quando não está a transpor as suas ideias para o software desenvolvido, gosta de se aventurar pelo mundo da culinária e de praticar desporto.
+  id: 9
+
+- name: Eduardo Afonso
+  pic: eduardo-afonso-aptiv.jpg
+  position: Diretor de Recursos Humanos
+  enterprise: Aptiv
+  enterpriseURL: http://www.aptiv.com/
+  about: Eduardo iniciou a sua carreira em 1991 como Engenheiro de Qualidade de Fornecedores. Em 2004 foi nomeado Diretor de Compras e em 2014 assumiu o cargo de Diretor de Recursos Humanos. Em 2017, Eduardo Afonso assumiu funções adicionais como HR Partner EMEA Operations Electronics & Safety.
+  id: 10
+
+- name: Paula Gomes
+  pic: paula-gomes-BitSonae.jpg
+  position: IT Strategy & Enterprise Architecture Lead
+  enterprise: BitSonae
+  enterpriseURL: https://www.linkedin.com/showcase/bit-sonae/
+  about: Curiosa, dedicada, muito teimosa e, acima de tudo, feliz. Paula Gomes, licenciada em Ciência da Informação e Mestre em Engenharia de Serviços e Gestão pela FEUP. Parece que foi ontem, mas já lá vão mais de 10 anos de um percurso profissional dedicado à organização empresarial, sistemas de informação, estratégia e empreendedorismo. Depois de uns anos a batalhar como consultora e muito direcionada para a indústria, decidiu voltar-se para o maravilhoso mundo do retalho. Há 4 anos que faz parte do universo Sonae, mais concretamente da Direção de Sistemas de Informação (BIT), onde lidera a equipa de IT Strategy & Enterprise Architecture (também conhecida pela "melhor equipa de sempre").
+  id: 11  
+
+- name: José Carreiras
+  pic: jose-carreiras-aptiv.jpg
+  position: Diretor do Centro de Desenvolvimento de Braga
+  enterprise: Aptiv
+  enterpriseURL: http://www.aptiv.com/
+  about: José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas. Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro Técnico de Desenvolvimento de Braga.
+  id: 12
+
 - name: Mais oradores
   pic: tba.png
   position: Brevemente
-  id: 8
+  id: 13
