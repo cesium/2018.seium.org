@@ -16029,9 +16029,10 @@ $(document).ready(function(){
   });
 
   var slickOpts = {
-    initialSlide: 4,
+    initialSlide: 0,
     dots: true,
     autoplay: false,
+    infinite: false,
     slidesToShow: 2,
     responsive: [{
       breakpoint: 450,
