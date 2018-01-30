@@ -113,7 +113,26 @@
   about: José Carreiras iniciou a sua carreira em 1992 na Engenharia de Produção, tendo desempenhado funções em diversas áreas. Mais recentemente, em 2014 foi nomeado Diretor de Engenharia e em 2017, José Carreiras foi nomeado Diretor do Centro Técnico de Desenvolvimento de Braga.
   id: 12
 
+- name: Nuno Barreto
+  pic: nuno-barreto-xpandit.jpg
+  position: Partner & Big Data Lead
+  enterprise: XpandIT
+  enterpriseURL: http://xpand-it.com/
+  about: Nuno Barreto, licenciado em Engenharia Informática e de Computadores pelo Instituto Superior Técnico e com um MBA na Universidade de Oxford, foi responsável por projetos de âmbito internacional em países como EUA, México, Argentina, Holanda e Portugal. É Partner da Xpand IT e responsável pela área de Data & Middleware Infrastructure.
+
+  id: 13
+
+- name: Ricardo Cardante
+  pic: ricardo-cardante-xpandit.jpg
+  position: Big Data Developer
+  enterprise: XpandIT
+  enterpriseURL: http://xpand-it.com/
+  github: https://github.com/ricardocardante
+  twitter: https://twitter.com/ricardocardante
+  about: Ricardo Cardante, Big Data Developer na Xpand IT e atual aluno do Mestrado Integrado em Engenharia Informática. Entusiasta de software open-source, tratamento de dados e arquiteturas NRT.
+  id: 14
+
 - name: Mais oradores
   pic: tba.png
   position: Brevemente
-  id: 13
+  id: 15
