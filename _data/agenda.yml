@@ -208,8 +208,8 @@
 
     - name: "DevOps: metodologia de desenvolvimento com GitLab"
       speaker: André Rocha
-      enterprise: Eurotux
-      enterpriseURL: https://eurotux.com/
+      enterprise: Dipcode
+      enterpriseURL: https://dipcode.com/
       time: 16:30-17:30
       type: talk
       duration: one-hour
