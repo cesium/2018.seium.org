@@ -151,7 +151,7 @@
       enterpriseURL: https://home.kpmg.com/
       time: 16:30-17:30 
       duration: one-hour
-      about: Segurança
+      about: Cibersegurança
       icon: fa-lock
       type: talk
       
@@ -260,12 +260,15 @@
       type: talk
       tba: true
 
-    - name: TBA
+    - name: Artificial Intelligence @ Accenture
+      speaker: Pedro Couto
+      enterprise: Accenture
+      enterpriseURL: https://www.accenture.com
       time: 15:00-16:00
       duration: one-hour
       type: talk
-      icon: fa-share-alt
-      tba: true
+      icon: fa-cogs
+      about: Machine Learning
     
     - coffee: true
     
