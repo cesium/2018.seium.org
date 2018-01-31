@@ -222,9 +222,10 @@
       duration: one-hour
       tba: true
 
-    - name: Rally das Tascas
+    - name: Rally de LEI
       time: 22:00-00:00
       duration: two-hours
+      about: "O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI. Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/2022939851296145/'>Facebook</a>."
       type: social
 
 - thursday:
