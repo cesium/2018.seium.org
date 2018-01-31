@@ -9197,6 +9197,11 @@ header {
 #agenda .agenda-wrapper .agenda-day .agenda-activity .twenty-hours {
   min-height: 680px; }
 
+.link-blue-background {
+  text-decoration: underline; }
+  .link-blue-background:hover {
+    color: #191970; }
+
 @media screen and (max-width: 991px) {
   #agenda .agenda-wrapper .agenda-day .agenda-activity .half-hour, #agenda .agenda-wrapper .agenda-day .agenda-activity .one-hour, #agenda .agenda-wrapper .agenda-day .agenda-activity .one-hour-and-half, #agenda .agenda-wrapper .agenda-day .agenda-activity .two-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .two-hours-and-half, #agenda .agenda-wrapper .agenda-day .agenda-activity .three-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .five-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .six-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .eight-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .twenty-hours {
     min-height: 0;
