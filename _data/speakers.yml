@@ -1,11 +1,3 @@
-#- name: Francisco Franco
-#  pic: francisco-franco.png
-#  position: Android Developer
-#  twitter: https://twitter.com/franciscof_1990/
-#  github: 
-#  about: Francisco Franco é um Android Developer com seis anos de experiência na construção de aplicações e kernels personalizados para dispositivos Nexus, com foco na melhoria da vida útil da bateria e na melhoria da extensibilidade dos recursos na plataforma. Construiu várias aplicações e serviços, sendo o mais popular o FKUpdater, que serve como uma interface para a gestão dos seus kernels personalizados e oferece uma maneira fácil para os utilizadores ficarem atualizados. Também criou o Focus, uma inovadora substituição de galeria de foto/vídeo que exibe o design de materiais no seu melhor, e tem experiência com startups na Silicon Valley, contribuindo para o projeto que começou e que é agora conhecido como Android Auto. Francisco gasta o seu tempo livre encontrando novos desafios para enfrentar, sendo a mais recente uma exploração em design mutativo com Liam Spradlin."
-#  id: 1
-
 - name: Eugene Petrenko
   pic: eugene.png
   position: Software Developer
@@ -132,7 +124,42 @@
   about: Ricardo Cardante, Big Data Developer na Xpand IT e atual aluno do Mestrado Integrado em Engenharia Informática. Entusiasta de software open-source, tratamento de dados e arquiteturas NRT.
   id: 14
 
+- name: Carlos Martins
+  pic: carlos-martins-wedo.jpg
+  position: UX architect
+  enterprise: WeDo Technologies
+  enterpriseURL: http://ww1.wedotechnologies.com/
+  twitter: https://twitter.com/carlos_martins
+  about: Engenheiro de software e profissional certificado em Usabilidade, Carlos Martins juntou-se à WeDo para ajudar a redesenhar a RAID’s UX. Carlos tem mais de 15 anos de experiência em development e arquiteturas de grandes aplicações web. Mais recentemente, focou-se no RAID.Cloud, para construção de soluções com SaaS (Software as a Service) simples, que ajudem companhias telefónicas a combater a fraude.
+  id: 15
+
+- name: Thomas Papa
+  pic: thomas-papa.png
+  position: Game Developer
+  enterprise: Mimicry
+  enterpriseURL: http://www.mimicrygames.com/
+  twitter: https://twitter.com/thomasjpapa
+  about: Thomas Papa é o fundador e diretor da Mimicry, uma companhia de videojogos, realidade virtual e desenvolvimento de software, em Coimbra. Thomas é experiente no desenvolvimento de jogos, estando a trabalhar na indústria desde 2007 e tendo-se iniciado na realidade virtual desde o lançamento dos primeiros headsets em 2013. É essencialmente responsável por design de jogos e Biz Dev (Business Development). É ativo na interseção entre arte e tecnologia, além de estar em permanente busca de tecnologia que permita novas formas de jogo.
+
+  id: 16
+
+- name: Raul Azevedo
+  pic: raul-azevedo-wedo.jpg
+  position: VP for Product Development
+  enterprise: WeDo Technologies
+  enterpriseURL: http://ww1.wedotechnologies.com/
+  about: Raul Azevedo, depois de completar a sua formação superior em Ciências da Computação e Engenharia de Sistemas, teve uma rica e variada experiência enquanto líder de Sistemas de Informação, numa diversidade de setores como manufatura, tecnologia, retalho e banca. Hoje, Raul é o VP for Product Development da WeDo Technologies, supervisionando as equipas de Research & Development, Support & Maintenance e Cloud & Managed Services Operations.
+  id: 17
+
+- name: Miguel Domingues
+  pic: miguel-domingues-primavera.png
+  position: New Technologies Researcher & Project Manager
+  enterprise: Primavera
+  enterpriseURL: https://pt.primaverabss.com/
+  about: Licenciado em Engenharia de Sistemas Informáticos pela U. Minho, prosseguiu estudos pós-graduados na mesma escola e também na Faculdade de Ciências da U. Porto. Iniciou a sua carreira na Portugal Telecom, passou pela IDITE-Minho enquanto Project Manager e trabalha desde 2005 na PRIMAVERA BSS, onde tem tido um percurso ligado à área de inovação e novas tecnologias, como lead developer, researcher e project manager. Curioso, pragmático e sempre a par das mais recentes novidades tecnológicas, tem atualmente a missão de tornar os produtos PRIMAVERA inteligentes, com recurso aos princípios de machine learning.
+  id: 18
+
 - name: Mais oradores
   pic: tba.png
   position: Brevemente
-  id: 15
+  id: 20
