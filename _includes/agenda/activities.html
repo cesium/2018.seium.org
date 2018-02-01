@@ -30,7 +30,7 @@
               <div class="container activity-speaker">
                 {% if act.speaker %}
                 <div class="row">
-                  <div class="col-sm-12">
+                  <div class="col-xs-12">
                     <a href="/speakers/#{{ act.speaker | slugify }}">
                       <i class="fa fa-user"></i><span>{{ act.speaker }}</span>
                     </a>
@@ -39,7 +39,7 @@
                 {% endif %}
                 {% if act.speaker2 %}
                 <div class="row">
-                  <div class="col-sm-12">
+                  <div class="col-xs-12">
                     <a href="/speakers/#{{ act.speaker2 | slugify }}">
                       <i class="fa fa-user"></i><span>{{ act.speaker2 }}</span>
                     </a>
@@ -71,9 +71,24 @@
                   {% endif %}
                 </div>
               </div>
-              <div class="col-xs-12 activity-speaker">
+              <div class="container activity-speaker">
                 {% if act.speaker %}
-                <i class="fa fa-user"></i><span>{{ act.speaker }}</span>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <a href="/speakers/#{{ act.speaker | slugify }}">
+                      <i class="fa fa-user"></i><span>{{ act.speaker }}</span>
+                    </a>
+                  </div>
+                </div>
+                {% endif %}
+                {% if act.speaker2 %}
+                <div class="row">
+                  <div class="col-xs-12">
+                    <a href="/speakers/#{{ act.speaker2 | slugify }}">
+                      <i class="fa fa-user"></i><span>{{ act.speaker2 }}</span>
+                    </a>
+                  </div>
+                </div>
                 {% endif %}
                 {% if act.enterprise %}
                 <div class="activity-enterprise">
