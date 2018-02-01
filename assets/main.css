@@ -10170,10 +10170,14 @@ button.btn.btn-info.btn-sei {
   border: 3px solid white;
   margin-bottom: 5px; }
 
-.activity-info p {
-  margin: 0;
-  text-transform: uppercase;
-  font-size: 12px; }
+.activity-info {
+  margin-top: 5px; }
+  .activity-info p {
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 12px; }
+  .activity-info div {
+    margin-bottom: 5px; }
 
 .activity-type {
   text-transform: uppercase;
@@ -10190,17 +10194,21 @@ button.btn.btn-info.btn-sei {
 
 .activity-datetime {
   text-align: left;
-  color: white; }
+  color: white;
+  margin-bottom: 2px; }
 
-.activity-speaker i, .activity-datetime i, .activity-datetime div i {
-  margin-right: 5px;
-  font-size: 12px;
-  color: #3c3e44; }
-.activity-speaker span, .activity-datetime span, .activity-datetime div span {
-  margin-right: 5px; }
-.activity-speaker a:hover, .activity-speaker a:focus, .activity-datetime a:hover, .activity-datetime a:focus, .activity-datetime div a:hover, .activity-datetime div a:focus {
-  color: #fff;
-  text-decoration: underline; }
+.activity-speaker, .activity-datetime, .activity-datetime div {
+  padding-left: 0;
+  padding-right: 0; }
+  .activity-speaker i, .activity-datetime i, .activity-datetime div i {
+    margin-right: 5px;
+    font-size: 12px;
+    color: #3c3e44; }
+  .activity-speaker span, .activity-datetime span, .activity-datetime div span {
+    margin-right: 5px; }
+  .activity-speaker a:hover, .activity-speaker a:focus, .activity-datetime a:hover, .activity-datetime a:focus, .activity-datetime div a:hover, .activity-datetime div a:focus {
+    color: #fff;
+    text-decoration: underline; }
 
 .activity-text {
   width: 100%;
