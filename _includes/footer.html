@@ -11,7 +11,7 @@
       <a href="http://www.github.com/cesium"><i class="fa fa-github fa-2x"></i></a>
       <a href="https://twitter.com/cesiuminho"><i class="fa fa-twitter fa-2x"></i></a>
 
-      <p><a href="http://2017.seium.org" target="_blank"> Previous edition</a> ||
+      <p><a href="http://2017.seium.org" target="_blank">{% t footer.prevEdition %}</a> ||
 
       {% if page.path == 'hackathon/index.html' %}
 
@@ -23,6 +23,11 @@
 
       {% endif %}
       </p>
+      <a class="active" href="#">{{ site.languageNames[site.lang] }}</a>
+      {% for lang in site.languageNames %}
+      {% if lang[0] == site.lang %} {% continue %} {% endif %}
+      <a href="{{ site.baseurl_root }}/{{ lang[0] }}/">{{ lang[1] }}</a>
+      {% endfor %}
     </div>
 
   </div>

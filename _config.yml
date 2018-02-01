@@ -17,3 +17,11 @@ markdown: kramdown
 
 gems:
 - jekyll-assets
+
+# jekyll-multiple-languages-plugin settings:
+exclude_from_localizations: ["speakers", "CNAME", "hackathon", "getting-here", "agenda"]
+languages: ["en", "pt"]
+defaultLang: en
+languageNames:
+    en: English
+    pt: Português
