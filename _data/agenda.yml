@@ -248,7 +248,7 @@
       duration: two-hours
       type: workshop
       icon: fa-android
-      about: Android
+      about: O Android OS é, atualmente, o sistema operativo móvel com maior penetração de mercado sendo o desenvolvimento de apps para este sistema operativo uma skill com bastante procura no mercado de trabalho. Com este workshop pretende-se fazer uma breve introdução ao desenvolvimento de aplicações nativas para Android, onde serão abordados alguns conceitos básicos, best practices e patterns necessários para o desenvolvimento de apps, com exemplos práticos através do desenvolvimento de uma app Android. Para participar neste workshop é apenas necessário conhecimentos básicos de programação, um computador com Android Studio instalado e boa disposição!
 
     - coffee: true
 
@@ -301,12 +301,13 @@
   date: 9 FEV
   dayOfWeek: SEXTA
   activities:
-    - name: TBA
+    - name: iOS - Facebook in 50 Swifty minutes
+      speaker: Diogo Martins
       type: workshop
       time: 09:30-11:30
       duration: two-hours
-      icon: fa-table
-      tba: true
+      icon: fa-apple
+      about: Neste workshop vai fazer-se um pequeno crash course em Swift onde vai ser desenvolvida uma aplicação iOS semelhante ao feed de notícias do Facebook. Além de conceitos básicos de iOS/Swift, vai falar-se de desenvolvimento de UI, estrutura do projecto e boas práticas.
 
     - coffee: true
 
@@ -320,13 +321,14 @@
 
     - meal: true
 
-    - name: TBA
+    - name: Engineering fashion with data
+      speaker: João Gomes
       enterprise: Farfetch
       enterpriseURL: https://www.farfetch.com
       time: 14:00-15:00
       duration: one-hour
-      icon: fa-code
-      tba: true
+      icon: fa-database
+      about: O sucesso da Farfetch enquanto plataforma de eleição para compra de moda de luxo online assenta sobre uma equipa de engenharia de classe mundial, com uma mente especial para dados e números. Nesta apresentação será esclarecido o significado de Data, com D maiúsculo, para a Farfetch, assim como o modo como usam Data Science, Analytics e infraestruturas de Big Data escaláveis para revolucionarem a inovação.
       type: talk
 
     - name: Kotlin in 42 minutes
