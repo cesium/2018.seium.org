@@ -159,7 +159,23 @@
   about: Licenciado em Engenharia de Sistemas Informáticos pela U. Minho, prosseguiu estudos pós-graduados na mesma escola e também na Faculdade de Ciências da U. Porto. Iniciou a sua carreira na Portugal Telecom, passou pela IDITE-Minho enquanto Project Manager e trabalha desde 2005 na PRIMAVERA BSS, onde tem tido um percurso ligado à área de inovação e novas tecnologias, como lead developer, researcher e project manager. Curioso, pragmático e sempre a par das mais recentes novidades tecnológicas, tem atualmente a missão de tornar os produtos PRIMAVERA inteligentes, com recurso aos princípios de machine learning.
   id: 18
 
+- name: Pedro Couto
+  pic: pedro-couto-accenture.jpg
+  position: Senior Manager
+  enterprise: Accenture
+  enterpriseURL: http://accenture.com/
+  about: Pedro Couto, Senior Manager na Accenture Portugal, já confirmou a sua presença no dia 8 de fevereiro na SEI - Semana da Engenharia Informática na Universidade do Minho’18. Prepara-te para a sua palestra!
+  id: 19
+
+- name: João Vilela
+  pic: joao-vilela-smithmicro.jpg
+  position: Android & Backend Developer
+  enterprise: Smith Micro
+  enterpriseURL: http://www.smithmicro.com/
+  about: João Vilela é mestre em Engenharia de Telecomunicações e Informática pela Universidade do Minho, sendo atualmente Software Developer na Smith Micro Software. Tendo já participado em vários projetos nacionais e internacionais e em desenvolvimento de produto, possui experiência no desenvolvimento de aplicações móveis e soluções backend, sendo especialista no desenvolvimento de aplicações nativas para Android.
+  id: 20
+
 - name: Mais oradores
   pic: tba.png
   position: Brevemente
-  id: 20
+  id: 21

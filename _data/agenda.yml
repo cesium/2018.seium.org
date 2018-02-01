@@ -33,7 +33,8 @@
     - coffee: true
 
     - name: Big Data - Present & Future
-      speaker: Nuno Barreto & Ricardo Cardante
+      speaker: Nuno Barreto
+      speaker2: Ricardo Cardante
       time: 12:00-13:00
       duration: one-hour 
       type: talk
@@ -55,28 +56,30 @@
       type: talk 
       about: IT Strategy & Enterprise Architecture
 
-    - name: TBA
+    - name: Fogos.pt - A história, a tecnologia e os problemas
       speaker: João Pina
       enterprise: MeshApp
       enterpriseURL: https://meshapp.me/
       time: 15:00-16:00
       duration: one-hour
-      icon: fa-btc
+      icon: fa-fire
       type: talk
-      tba: true
+      about: Uma conversa onde são apresentados alguns marcos históricos do Fogos.pt. A tecnologia por detrás e alguns problemas encontrados no caminho!
 
     - coffee: true
     
     - name: Software Inteligente
-      speaker: Miguel Domingues & Daniel Malhadas
+      speaker: Miguel Domingues
+      speaker2: Daniel Malhadas
       enterprise: Primavera
       enterpriseURL: https://pt.primaverabss.com/
       time: 16:30-17:30
       duration: one-hour
+      about: A Inteligência Artificial, o Machine Learning e o Blockchain foram temas de grande destaque na Web Summit 2017 e são as tendências da inovação tecnológica da PRIMAVERA para 2018. Estas tecnologias fazem parte de uma visão para construir produtos inteligentes que servirá de orientação para o futuro do software de gestão da PRIMAVERA. Ficaste curioso? Então esta sessão é para ti!
       type: talk
       icon: fa-desktop
 
-    - name: Remote work @ GitLab
+    - name: Remote work
       speaker: Job van der Voort
       enterprise: GitLab
       enterpriseURL: https://about.gitlab.com/
@@ -105,15 +108,16 @@
 
     - coffee: true
 
-    - name: Evening the Odds in the Digital Fraud War
-      speaker: Carlos Martins & Raul Azevedo
+    - name: "Machine Learning: Evening the Odds in the Digital Fraud War"
+      speaker: Carlos Martins
+      speaker2: Raul Azevedo
       enterprise: WeDo
       enterpriseURL: http://ww1.wedotechnologies.com/
       type: talk 
       time: 12:00-13:00
       duration: one-hour
       icon: fa-cogs
-      about: Machine Learning
+      about: A era digital em que entramos, onde a conectividade massivamente sensorial e ubíqua está a indefinir os mundos físico e digital, está a traçar uma nova forma de viver, trazendo várias oportunidades e a promessa de um mundo melhor. Mas esta mudança radical traz também mais desafios, em que este mundo interconectado, onde tudo acontece num instante, facilmente se torna uma enorme plataforma de ataque para defraudadores e criminosos informáticos no geral. É, portanto, necessário haver igualmente uma abordagem alternativa para combater a fraude, suportada pelas mesmas ferramentas que dão forma a este novo mundo digital, onde a Inteligência Artificial tem um papel fundamental.
 
     - meal: true
 
@@ -134,7 +138,8 @@
 #      about: Machine Learning
 
     - name: TBA
-      speaker: Filipa Lacerda & Pedro Moreira da Silva
+      speaker: Filipa Lacerda
+      speaker2: Pedro Moreira da Silva
       enterprise: GitLab
       enterpriseURL: https://about.gitlab.com/
       time: 15:00-16:00 
@@ -151,7 +156,7 @@
       enterpriseURL: https://home.kpmg.com/
       time: 16:30-17:30 
       duration: one-hour
-      about: Cibersegurança
+      about: A segurança das organizações está cada vez mais ligada ao sucesso dos seus negócios. Esta palestra irá discutir a necessidade da realização de testes de penetração e simulação de adversários nas organizações e mostrar alguns exemplos práticos tanto defensivos como ofensivos para tornar as organizações e os seus negócios mais seguros.
       icon: fa-lock
       type: talk
       
@@ -180,13 +185,15 @@
     - coffee: true
 
     - name: Transforming Mobility
-      speaker: José Carreiras & Eduardo Afonso
+      speaker: José Carreiras
+      speaker2: Eduardo Afonso
       enterprise: Aptiv
       enterpriseURL: http://www.aptiv.com/
       time: 12:00-13:00
       duration: one-hour
-      icon: fa-table
+      icon: fa-car
       type: talk
+      about: A palestra “Transforming Mobility”, será feita uma abordagem sobre o nosso foco em trazer a próxima geração de veículos autónomos, cidades inteligentes e conectividade para a vida. Além disso, serão abordados outros temas como a nova tecnologia de condução autónoma, a redefinição da conectividade do infotainment e novas soluções inteligentes de mobilidade.
     
     - meal: true
 
@@ -206,14 +213,14 @@
 
     - coffee: true
 
-    - name: "DevOps: metodologia de desenvolvimento com GitLab"
+    - name: DevOps no dia-a-dia de uma equipa de desenvolvimento web
       speaker: André Rocha
       enterprise: Dipcode
       enterpriseURL: https://dipcode.com/
       time: 16:30-17:30
       type: talk
       duration: one-hour
-      about: DevOps
+      about: Com base nas boas práticas atuais, a Dipcode implementou a sua própria metodologia de desenvolvimento face à qualidade pretendida na concepção de software. Git, Docker, integração continua, code review, branches, serão alguns dos assuntos abordados nesta sessão que pretende partilhar os processos e ferramentas utilizados na empresa.
       icon: fa-wrench
       
     - name: TBA
@@ -303,12 +310,13 @@
 
     - coffee: true
 
-    - name: TBA
+    - name: Progressive WebOops I Did It Again
       speaker: Mike Elsmore
       type: talk
       time: 12:00-13:00
+      icon: fa-globe
+      about: O que são Progressive WebApps? E mais importante, porque nos devemos importar? Cobrir-se-á a coleção de ferramentas que constituem uma PWA, assim como ferramentas que auxiliam o seu suporte e ainda tecnologias extra que fazem com que seja mais fácil de engolir ter de seguir protocolos. No final da palestra, estarás preparado para lidar com toda ou parte da tecnologia existente em qualquer aplicação sem teres uma grande dor de cabeça.
       duration: one-hour
-      tba: true
 
     - meal: true
 
@@ -328,7 +336,7 @@
       time: 15:00-16:00
       duration: one-hour
       icon: fa-code
-      about: Kotlin
+      about: Bem-vindo ao Kotlin, a linguagem de programação open source e estaticamente tipada para aplicações multiplatforma. Para começar, haverá uma introdução à linguagem, independente do alvo final, seja ele Native, JVM, Android ou JavaScript. Cobrirá a sintaxe básica, inferência de tipos, lambdas, classes de dados, DSLs estaticamente tipadas, e muito mais. Um introdução não é possível sem histórias e planos futuros. Adicionalmente, Eugene irá partilhar a sua própria experiência com Kotlin e vários projetos open source que criou com esta linguagem.
       type: talk
 
     - coffee: true

@@ -27,11 +27,24 @@
                   <i class="fa fa-clock-o"></i><span>{{ act.time }}</span>
                 </p>
               </div>
-              <div class="activity-speaker">
+              <div class="container activity-speaker">
                 {% if act.speaker %}
-                <a href="/speakers/#{{ act.speaker | slugify }}">
-                  <i class="fa fa-user"></i><span>{{ act.speaker }}</span>
-                </a>
+                <div class="row">
+                  <div class="col-sm-12">
+                    <a href="/speakers/#{{ act.speaker | slugify }}">
+                      <i class="fa fa-user"></i><span>{{ act.speaker }}</span>
+                    </a>
+                  </div>
+                </div>
+                {% endif %}
+                {% if act.speaker2 %}
+                <div class="row">
+                  <div class="col-sm-12">
+                    <a href="/speakers/#{{ act.speaker2 | slugify }}">
+                      <i class="fa fa-user"></i><span>{{ act.speaker2 }}</span>
+                    </a>
+                  </div>
+                </div>
                 {% endif %}
                 {% if act.enterprise %}
                 <div class="activity-enterprise">
