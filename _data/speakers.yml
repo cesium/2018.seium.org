@@ -156,7 +156,7 @@
   position: New Technologies Researcher & Project Manager
   enterprise: Primavera
   enterpriseURL: https://pt.primaverabss.com/
-  about: Licenciado em Engenharia de Sistemas Informáticos pela U. Minho, prosseguiu estudos pós-graduados na mesma escola e também na Faculdade de Ciências da U. Porto. Iniciou a sua carreira na Portugal Telecom, passou pela IDITE-Minho enquanto Project Manager e trabalha desde 2005 na PRIMAVERA BSS, onde tem tido um percurso ligado à área de inovação e novas tecnologias, como lead developer, researcher e project manager. Curioso, pragmático e sempre a par das mais recentes novidades tecnológicas, tem atualmente a missão de tornar os produtos PRIMAVERA inteligentes, com recurso aos princípios de machine learning.
+  about: Licenciado em Engenharia de Sistemas Informáticos pela U. Minho, onde prosseguiu com pós-graduação, e Ciências da Computação pela Faculdade de Ciências da U. Porto. Iniciou a sua carreira no Centro de Estudos de Telecomunicações da Portugal Telecom e trabalha desde 2005 na PRIMAVERA BSS, onde tem tido um percurso ligado à área de inovação e novas tecnologias, como lead developer, researcher e project manager. Curioso e pragmático, sempre a par das mais recentes novidades tecnológicas, tem atualmente a missão de tornar os produtos PRIMAVERA inteligentes usando tecnologias realmente incríveis!
   id: 18
 
 - name: Pedro Couto
@@ -175,7 +175,35 @@
   about: João Vilela é mestre em Engenharia de Telecomunicações e Informática pela Universidade do Minho, sendo atualmente Software Developer na Smith Micro Software. Tendo já participado em vários projetos nacionais e internacionais e em desenvolvimento de produto, possui experiência no desenvolvimento de aplicações móveis e soluções backend, sendo especialista no desenvolvimento de aplicações nativas para Android.
   id: 20
 
-- name: Mais oradores
-  pic: tba.png
-  position: Brevemente
+- name: Diogo Martins 
+  pic: diogo-martins-nutrium.jpg
+  position: Developer
+  enterprise: Nutrium
+  enterpriseURL: https://nutrium.io/
+  about: Estudou Engenharia Informática na Universidade do Minho, sendo agora líder da equipa de desenvolvimento iOS no Nutrium.
   id: 21
+
+- name: Daniel Malhadas 
+  pic: daniel-malhadas-primavera.png
+  position: Researcher
+  enterprise: Primavera
+  enterpriseURL: https://pt.primaverabss.com/
+  about: Aluno finalista do Mestrado Integrado em Engenharia Informática na Universidade do Minho. Ao longo do seu percurso académico foi convidado a desenvolver alguns projetos para várias escolas da UM e foi também desenvolvendo um interesse particular pela área do Machine Learning. Está atualmente na PRIMAVERA a desenvolver a sua dissertação de mestrado sob o tema “Machine Learning aplicado à previsão da evolução financeira de uma empresa”, no departamento de Inovação e sob supervisão do Miguel Domingues.
+  id: 22
+
+- name: Daniel Teixeira
+  pic: daniel-teixeira-kpmg.jpg
+  position: Cyber Security Senior Manager
+  enterprise: KPMG
+  enterpriseURL: https://home.kpmg.com/
+  about: Daniel Teixeira é Senior Manager em Cyber Security na KPMG, especializado em testes de penetração e avaliação de vulnerabilidades. As suas áreas de foco são a simulação de adversários, emulação de tácticas, técnicas e procedimentos adversárias modernas, investigação e exploração de vulnerabilidades.
+  id: 23
+
+- name: João Gomes
+  pic: joao-gomes-farfetch.png
+  position: Data Scientist
+  enterprise: Farfetch
+  enterpriseURL: https://www.farfetch.com
+  about: João Gomes é o Lead Data Scientist da equipa de Recomendação na Farfetch. Desde que se juntou à companhia, em 2015, tem ajudado no design e desenvolvimento de novos algoritmos, que potencializem a personalização de recomendações e descoberta nos vários canais da plataforma da Farfetch. Pessoalmente, gosta de Python, pandas, provocar, Porto (FC), porto (vinho) e usar aliterações inapropriadamente.
+  id: 24
+
