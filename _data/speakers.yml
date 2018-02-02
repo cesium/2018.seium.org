@@ -184,7 +184,7 @@
   id: 21
 
 - name: Daniel Malhadas 
-  pic: daniel-malhadas-primavera.png
+  pic: daniel-malhadas-primavera.jpg
   position: Researcher
   enterprise: Primavera
   enterpriseURL: https://pt.primaverabss.com/
@@ -207,3 +207,18 @@
   about: João Gomes é o Lead Data Scientist da equipa de Recomendação na Farfetch. Desde que se juntou à companhia, em 2015, tem ajudado no design e desenvolvimento de novos algoritmos, que potencializem a personalização de recomendações e descoberta nos vários canais da plataforma da Farfetch. Pessoalmente, gosta de Python, pandas, provocar, Porto (FC), porto (vinho) e usar aliterações inapropriadamente.
   id: 24
 
+- name: Tiago Mateus
+  pic: tiago-mateus.jpg
+  position: Diretor
+  enterprise: Parpública
+  enterpriseURL: http://www.parpublica.pt/
+  about: Tiago é jurista de formação e atualmente é diretor na Parpública e administrador do Hospital da Cruz Vermelha. Um dos seus principais hobbies consiste no estudo dos desafios jurídicos e económicos relacionados com blockchain, cryptocurrencies/tokens e inteligência artificial. Adoraria aprender código e defende que a programação deve ser incluída no currículo do ensino escolar básico e secundário.
+  id: 25
+
+- name: Miguel Amador
+  pic: miguel-amador.jpg
+  position: Team Member
+  enterprise: UTRUST
+  enterpriseURL: https://utrust.io/
+  about: Miguel Amador é membro da equipa da UTRUST, uma plataforma inovadora de pagamento que permite aos compradores usarem as suas criptomoedas favoritas nos pagamentos, oferecendo-lhes em simultâneo a melhor proteção do mercado. Anteriormente, era Manager of the HealthTech and NanoTech Programs, na Startup Braga, uma incubadora e aceleradora de novos negócios em Braga, Portugal. É, também, candidato a Ph.D. em Sistemas de Bioengenharia no IST (Instituto Superior Técnico), em Lisboa, sobre o MIT Portugal Program, focado em políticas públicas que fomentem a inovação na saúde, usando dados reais. Em 2014, recebeu o prémio Fulbright Fellowship, do MIT Center, pela inovação biomédica. É também Vice-President do EIT Health Alumni, que visa ser a maior companhia europeia de inovadores na saúde.
+  id: 26
