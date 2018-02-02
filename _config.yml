@@ -19,7 +19,7 @@ gems:
 - jekyll-assets
 
 # jekyll-multiple-languages-plugin settings:
-exclude_from_localizations: ["speakers", "CNAME", "hackathon", "getting-here", "agenda"]
+exclude_from_localizations: ["speakers", "CNAME", "hackathon", "getting-here", "agenda", "Rakefile", "README.md", "Gemfile.lock", "Gemfile", ".gitignore", "LICENSE"]
 languages: ["en", "pt"]
 defaultLang: en
 languageNames:

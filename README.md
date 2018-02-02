@@ -4,6 +4,12 @@ SEI - Semana da Engenharia Informática, our Computer Engineering Week is an eve
 
 This is the website for the 2018 Edition.
 
+This specific branch approaches an i18n version of the website. Here are some important references:
+
+### Plugin tutorial: http://www.klaasnotfound.com/2017/02/16/proper-multilingual-site-with-github-pages-and-jekyll/
+### Original plugin source: https://github.com/Anthony-Gaudino/jekyll-multiple-languages-plugin#54-i18n-in-templates
+### Changed plugin: https://github.com/Anthony-Gaudino/jekyll-multiple-languages-plugin/issues/86#issuecomment-276187549
+
 # Deploying
 Change branch to master `git checkout master`
 
