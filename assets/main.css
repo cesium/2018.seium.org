@@ -9185,7 +9185,7 @@ header {
         display: flex;
         -webkit-box-align: end;
             -ms-flex-align: end;
-                align-items: end; }
+                align-items: flex-end; }
         #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left {
           float: left;
           margin-right: 1%;
@@ -9286,9 +9286,6 @@ header {
           width: 49%;
           margin-left: 1%;
           margin-top: 42px; }
-          @media screen and (max-width: 991px) {
-            #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right {
-              margin-top: 50%; } }
           #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .activity-time {
             text-align: left;
             color: #2180f9;
