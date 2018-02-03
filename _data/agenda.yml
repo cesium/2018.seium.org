@@ -85,6 +85,7 @@
       enterpriseURL: https://about.gitlab.com/
       time: 17:30-18:30
       duration: one-hour
+      about: Job trabalha na GitLab e vem falar-te de como trabalha remotamente, permitindo-lhe viver onde quer.
       type: talk
       icon: fa-briefcase
 
@@ -174,13 +175,26 @@
   date: 7 FEV
   dayOfWeek: QUARTA
   activities:
-    - name: TBA
-      enterprise: Blip
-      type: workshop
-      time: 9:30-11:30
-      duration: two-hours
-      icon: fa-mobile
-      tba: true
+    - double: true
+      nameLeft: Building a Single Page Application
+      speakerLeft: Bruno Araújo
+      speakerLeft2: Gonçalo Matos
+      enterpriseLeft: Blip
+      enterpriseURLLeft: https://blip.pt/
+      timeLeft: 09:30-11:30
+      durationLeft: two-hours
+      iconLeft: fa-globe
+      aboutLeft: Neste workshop mostraremos como criar uma SPA (single page application) simples. Vamos criar um pseudo blog como validação do conceito. Para tal, usaremos Angular + ES6 + Webpack para o Frontend e Node.js para o Backend. Para além das instruções de como o fazer, vamos ensinar-te pequenas dicas para melhorar a performance e manutenção das coisas.
+      typeLeft: workshop
+      nameRight: A journey through P2P land
+      speakerRight: Fernando Mendes
+      enterpriseRight: Subvisual
+      enterpriseURLRight: https://subvisual.co/
+      timeRight: 10:30-11:30
+      durationRight: one-hour
+      iconRight: fa-code
+      aboutRight: Cenas
+      typeRight: talk
 
     - coffee: true
 
@@ -206,6 +220,7 @@
       tba: true 
 
     - name: TBA
+      speaker: Thomas Papa
       time: 15:00-16:00
       duration: one-hour
       type: talk
@@ -223,10 +238,11 @@
       about: Com base nas boas práticas atuais, a Dipcode implementou a sua própria metodologia de desenvolvimento face à qualidade pretendida na concepção de software. Git, Docker, integração continua, code review, branches, serão alguns dos assuntos abordados nesta sessão que pretende partilhar os processos e ferramentas utilizados na empresa.
       icon: fa-wrench
       
-    - name: TBA
+    - name: Women in Tech
       time: 17:30-18:30
       type: Tertulia
       duration: one-hour
+      icon: fa-female
       tba: true
 
     - name: Rally de LEI
@@ -271,13 +287,13 @@
 
     - meal: true
 
-    - name: TBA
+    - name: Building WebApps with React
       time: 14:00-15:00
       duration: one-hour
-      icon: fa-lightbulb-o
+      icon: fa-globe
       enterprise: Talkdesk
       type: talk
-      tba: true
+      about: Introdução aos conceitos de frameworks JavaScript e como fazer uma aplicação em React.
 
     - name: Artificial Intelligence @ Accenture
       speaker: Pedro Couto
@@ -299,13 +315,14 @@
       type: talk
       tba: true
 
-    - name: TBA
-      #speaker: Miguel Amador, Tiago Aires Mateus & Fernando Mendes
+    - name: Into the Blockchain
+      speaker: Miguel Amador
+      speaker2: Fernando Mendes & Tiago Aires Mateus
       time: 17:30-18:30
       duration: one-hour 
-      icon: fa-file-code-o
-      type: Tertulia 
-      tba: true
+      icon: fa-bitcoin
+      type: Tertulia
+      about: Introdução ao Blockchain
 
 - friday:
   date: 9 FEV

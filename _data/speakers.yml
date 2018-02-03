@@ -230,3 +230,19 @@
   enterpriseURL: https://performetric.net/
   about: Pedro Duarte, estuda Engenharia Informática na Universidade do Minho, sendo também Data Scientist na Performetric.
   id: 27
+
+- name: Bruno Araújo
+  pic: bruno-araujo-blip.jpg
+  position: Frontend Developer
+  enterprise: Blip
+  enterpriseURL: https://blip.pt/
+  about: Bruno Araújo foi aluno da Universidade Minho e é frontend developer na Blip desde 2015. Apaixonado por aplicações escaláveis e modulares, encontrou na Blip o local certo para continuar a trabalhar em JavaScript. Gosta de experimentar todas as frameworks JavaScript para poder dizer mal e odeia ‘spaghetti’ code.
+  id: 28
+
+- name: Gonçalo Matos
+  pic: goncalo-matos-blip.jpg
+  position: Frontend Developer
+  enterprise: Blip
+  enterpriseURL: https://blip.pt/
+  about: Gonçalo Matos foi formado no ISEP em Engenharia Informática. Daí, seguiu e foi SQL Developer durante dois anos. Resolveu então trocar de ares e passou para Frontend Developer na Blip onde é aturado há, também, dois anos. Fundamentalista como é, o Javascript tornou-se a escolha ideal para chatear o maior número de pessoas. Gosta, então, de brincar com tecnologias novas de forma a poder dizer mal de todas as picuinhices que vê.
+  id: 29
