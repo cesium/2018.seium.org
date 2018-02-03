@@ -9227,19 +9227,7 @@ header {
               font-weight: bold;
               z-index: 5; }
             #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .activity-block .activity-speaker {
-              padding-left: 5%;
-              float: left; }
-              @media screen and (max-width: 991px) {
-                #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .activity-block .activity-speaker {
-                  float: none; } }
-            #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .activity-block .activity-speaker2 {
-              padding-right: 5%;
-              float: right; }
-              @media screen and (max-width: 991px) {
-                #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .activity-block .activity-speaker2 {
-                  float: none;
-                  padding-right: 0;
-                  padding-left: 5%; } }
+              padding-left: 5%; }
           #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .activity-tba-block {
             position: relative;
             color: #777;
@@ -9265,19 +9253,7 @@ header {
               font-weight: bold;
               z-index: 5; }
             #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .activity-tba-block .activity-speaker {
-              padding-left: 5%;
-              float: left; }
-            #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .activity-tba-block .activity-speaker2 {
-              padding-right: 5%;
-              float: right; }
-              @media screen and (max-width: 991px) {
-                #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .activity-tba-block .activity-speaker2 {
-                  float: none; } }
-              @media screen and (max-width: 991px) {
-                #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .activity-tba-block .activity-speaker2 {
-                  float: none;
-                  padding-right: 0;
-                  padding-left: 5%; } }
+              padding-left: 5%; }
           #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .activity-location {
             text-align: right;
             color: #2180f9; }
@@ -9374,6 +9350,8 @@ header {
                   float: none;
                   padding-right: 0;
                   padding-left: 5%; } }
+            #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .activity-tba-block .activity-speaker3 {
+              padding-left: 5%; }
           #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .activity-location {
             text-align: right;
             color: #2180f9; }
