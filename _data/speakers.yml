@@ -246,3 +246,13 @@
   enterpriseURL: https://blip.pt/
   about: Gonçalo Matos foi formado no ISEP em Engenharia Informática. Daí, seguiu e foi SQL Developer durante dois anos. Resolveu então trocar de ares e passou para Frontend Developer na Blip onde é aturado há, também, dois anos. Fundamentalista como é, o Javascript tornou-se a escolha ideal para chatear o maior número de pessoas. Gosta, então, de brincar com tecnologias novas de forma a poder dizer mal de todas as picuinhices que vê.
   id: 29
+
+- name: Fernando Mendes
+  pic: mendes.jpg
+  position: Developer
+  github: https://github.com/fribmendes
+  twitter: https://twitter.com/fribmendes
+  enterprise: Subvisual
+  enterpriseURL: https://subvisual.co/
+  about: Fernando Mendes é um novo ex-aluno da UMinho. Fundador do Include Braga e voluntário no Coderdojo Braga, atualmente trabalha na Subvisual onde troca café por código profissionalmente.
+  id: 30

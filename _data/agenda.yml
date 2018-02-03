@@ -193,7 +193,7 @@
       timeRight: 10:30-11:30
       durationRight: one-hour
       iconRight: fa-code
-      aboutRight: P2P (Peer-to-peer)
+      aboutRight: Uma viagem pela terra de sistemas distribuídos e topologias P2P, onde começamos com um projeto de smart office e aprendemos como pensar quando construímos aplicações assíncronas. Esta talk pode ou não incluir uma pequena introdução a Elixir.
       typeRight: talk
 
     - coffee: true
@@ -238,7 +238,7 @@
       about: Com base nas boas práticas atuais, a Dipcode implementou a sua própria metodologia de desenvolvimento face à qualidade pretendida na concepção de software. Git, Docker, integração continua, code review, branches, serão alguns dos assuntos abordados nesta sessão que pretende partilhar os processos e ferramentas utilizados na empresa.
       icon: fa-wrench
       
-    - name: Women in Tech
+    - name: TBA
       time: 17:30-18:30
       type: Tertulia
       duration: one-hour
@@ -317,12 +317,13 @@
 
     - name: Into the Blockchain
       speaker: Miguel Amador
-      speaker2: Fernando Mendes & Tiago Aires Mateus
+      speaker2: Fernando Mendes
+      speaker3: Tiago Aires Mateus
       time: 17:30-18:30
       duration: one-hour 
       icon: fa-bitcoin
       type: Tertulia
-      about: Introdução ao Blockchain
+      about: Um olhar sobre a blockchain e as criptomoedas, onde abordamos a adopção, a legalização e a tecnologia que a suporta.
 
 - friday:
   date: 9 FEV
