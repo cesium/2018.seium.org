@@ -240,16 +240,26 @@
   date: 8 FEV
   dayOfWeek: QUINTA
   activities:
-    - name: Android workshop
-      speaker: João Vilela
-      enterprise: SmithMicro
-      enterpriseURL: http://www.smithmicro.com/
-      time: 9:30-11:30
-      duration: two-hours
-      type: workshop
-      icon: fa-android
-      about: O Android OS é, atualmente, o sistema operativo móvel com maior penetração de mercado sendo o desenvolvimento de apps para este sistema operativo uma skill com bastante procura no mercado de trabalho. Com este workshop pretende-se fazer uma breve introdução ao desenvolvimento de aplicações nativas para Android, onde serão abordados alguns conceitos básicos, best practices e patterns necessários para o desenvolvimento de apps, com exemplos práticos através do desenvolvimento de uma app Android. Para participar neste workshop é apenas necessário conhecimentos básicos de programação, um computador com Android Studio instalado e boa disposição!
-
+    - double: true
+      nameLeft: Android workshop
+      speakerLeft: João Vilela
+      enterpriseLeft: SmithMicro
+      enterpriseURLLeft: http://www.smithmicro.com/
+      timeLeft: 09:30-11:30
+      durationLeft: two-hours
+      iconLeft: fa-android
+      aboutLeft: O Android OS é, atualmente, o sistema operativo móvel com maior penetração de mercado sendo o desenvolvimento de apps para este sistema operativo uma skill com bastante procura no mercado de trabalho. Com este workshop pretende-se fazer uma breve introdução ao desenvolvimento de aplicações nativas para Android, onde serão abordados alguns conceitos básicos, best practices e patterns necessários para o desenvolvimento de apps, com exemplos práticos através do desenvolvimento de uma app Android. Para participar neste workshop é apenas necessário conhecimentos básicos de programação, um computador com Android Studio instalado e boa disposição!
+      typeLeft: workshop
+      nameRight: H20 - “The World’s Best Machine Learning Platform” overview
+      speakerRight: Pedro Duarte
+      enterpriseRight: Performetric
+      enterpriseURLRight: https://performetric.net/
+      timeRight: 10:30-11:30
+      durationRight: one-hour
+      iconRight: fa-cogs
+      aboutRight: Nesta palestra irá realizar-se uma introdução à plataforma H2O que torna Machine Learning escalável e acessível para extração de conhecimento de dados sem necessidade de experiência na implementação ou ajuste de modelos. Para além disso, será efetuada uma pequena demonstração usando a interface gráfica H2O Flow e a interação com R.
+      typeRight: talk
+    
     - coffee: true
 
     - name: TBA
@@ -355,8 +365,8 @@
   dayOfWeek: SÁBADO
   activities:
     - name: Hackathon 
-      time: 09:30-23:59
-      duration: thirteen-hours-one-half
+      time: 10:00-23:59
+      duration: thirteen-hours
       icon: fa-code
       type: Concurso
       about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.

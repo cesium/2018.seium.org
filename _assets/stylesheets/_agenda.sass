@@ -57,13 +57,30 @@
             height: 100%
             width: 4%
           .activity-name
+            white-space: nowrap
+            text-overflow: ellipsis
+            overflow: hidden
             text-transform: uppercase
             padding-left: 5%
             padding-top: 3px
             font-weight: bold
             z-index: 5
+            @media screen and (max-width: 991px)
+              white-space: inherit
+              text-overflow: inherit
+              overflow: inherit
           .activity-speaker
             padding-left: 5%
+            float: left
+            @media screen and (max-width: 991px)
+              float: none
+          .activity-speaker2
+            padding-right: 5%
+            float: right
+            @media screen and (max-width: 991px)
+              float: none
+              padding-right: 0
+              padding-left: 5%
         .activity-tba-block
           position: relative
           color: #777
@@ -90,9 +107,206 @@
             z-index: 5
           .activity-speaker
             padding-left: 5%
+            float: left
+            @media screen and (max-width: 991px)
+              float: none
+          .activity-speaker2
+            padding-right: 5%
+            float: right
+            @media screen and (max-width: 991px)
+              float: none
+              padding-right: 0
+              padding-left: 5%
         .activity-location
           text-align: right
           color: #2180f9
+      .agenda-double-activity
+        width: 100%
+        .activity-left
+          float: left
+          margin-right: 1%
+          width: 49%
+          @media screen and (max-width: 991px)
+            height: 100%
+          .activity-time
+            text-align: left
+            color: #2180f9
+            padding-left: 5%
+            font-weight: bold
+            @media screen and (max-width: 991px)
+              height: 10%
+          .activity-block
+            position: relative
+            color: white
+            /* Fallback for web browsers that doesn't support RGBa
+            background: #616161
+            /* RGBa with 0.6 opacity
+            background: rgba(97, 97, 97, 0.6)
+            /* For IE 5.5 - 7
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)
+            /* For IE 8
+            -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)"
+            &:hover
+              background-color: #2180f9
+              opacity: 1
+            .activity-border
+              position: absolute
+              background-color: #5E5E5E
+              height: 100%
+              width: 4%
+            .activity-name
+              white-space: nowrap
+              text-overflow: ellipsis
+              overflow: hidden
+              text-transform: uppercase
+              padding-left: 5%
+              padding-top: 3px
+              font-weight: bold
+              z-index: 5
+            .activity-speaker
+              padding-left: 5%
+              float: left
+              @media screen and (max-width: 991px)
+                float: none
+            .activity-speaker2
+              padding-right: 5%
+              float: right
+              @media screen and (max-width: 991px)
+                float: none
+                padding-right: 0
+                padding-left: 5%
+          .activity-tba-block
+            position: relative
+            color: #777
+            /* Fallback for web browsers that doesn't support RGBa
+            background: #616161
+            /* RGBa with 0.6 opacity
+            background: rgba(57, 57, 57, 0.4)
+            /* For IE 5.5 - 7
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)
+            /* For IE 8
+            -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)"
+            &:hover
+              cursor: default
+            .activity-border
+              position: absolute
+              background-color: rgba(57, 57, 57, 0.5)
+              height: 100%
+              width: 4%
+            .activity-name
+              text-transform: uppercase
+              padding-left: 5%
+              padding-top: 3px
+              font-weight: bold
+              z-index: 5
+            .activity-speaker
+              padding-left: 5%
+              float: left
+            .activity-speaker2
+              padding-right: 5%
+              float: right
+              @media screen and (max-width: 991px)
+                float: none
+              @media screen and (max-width: 991px)
+                float: none
+                padding-right: 0
+                padding-left: 5%
+          .activity-location
+            text-align: right
+            color: #2180f9
+        .activity-right
+          float: right
+          width: 49%
+          margin-left: 1%
+          margin-top: 42px
+          @media screen and (max-width: 991px)
+            margin-top: 50%
+          .activity-time
+            text-align: left
+            color: #2180f9
+            padding-left: 5%
+            font-weight: bold
+            @media screen and (max-width: 991px)
+              height: 20%
+          .activity-block
+            position: relative
+            color: white
+            /* Fallback for web browsers that doesn't support RGBa
+            background: #616161
+            /* RGBa with 0.6 opacity
+            background: rgba(97, 97, 97, 0.6)
+            /* For IE 5.5 - 7
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)
+            /* For IE 8
+            -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)"
+            &:hover
+              background-color: #2180f9
+              opacity: 1
+            .activity-border
+              position: absolute
+              background-color: #5E5E5E
+              height: 100%
+              width: 4%
+            .activity-name
+              white-space: nowrap
+              text-overflow: ellipsis
+              overflow: hidden
+              text-transform: uppercase
+              padding-left: 5%
+              padding-top: 3px
+              font-weight: bold
+              z-index: 5
+            .activity-speaker
+              padding-left: 5%
+              float: left
+              @media screen and (max-width: 991px)
+                float: none
+            .activity-speaker2
+              padding-right: 5%
+              float: right
+              @media screen and (max-width: 991px)
+                float: none
+                padding-right: 0
+                padding-left: 5%
+          .activity-tba-block
+            position: relative
+            color: #777
+            /* Fallback for web browsers that doesn't support RGBa
+            background: #616161
+            /* RGBa with 0.6 opacity
+            background: rgba(57, 57, 57, 0.4)
+            /* For IE 5.5 - 7
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)
+            /* For IE 8
+            -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)"
+            &:hover
+              cursor: default
+            .activity-border
+              position: absolute
+              background-color: rgba(57, 57, 57, 0.5)
+              height: 100%
+              width: 4%
+            .activity-name
+              text-transform: uppercase
+              padding-left: 5%
+              padding-top: 3px
+              font-weight: bold
+              z-index: 5
+            .activity-speaker
+              padding-left: 5%
+              float: left
+              @media screen and (max-width: 991px)
+                float: none
+            .activity-speaker2
+              padding-right: 5%
+              float: right
+              @media screen and (max-width: 991px)
+                float: none
+                padding-right: 0
+                padding-left: 5%
+          .activity-location
+            text-align: right
+            color: #2180f9
       .agenda-coffee
         text-align: center
         width: 100%
@@ -144,6 +358,52 @@
     min-height: 350px
   .twenty-hours
     min-height: 680px
+  .thirteen-hours
+    min-height: 680px
+
+#agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left
+  .half-hour
+    min-height: 20px
+  .one-hour
+    min-height: 43px
+  .one-hour-and-half
+    min-height: 64px
+  .two-hours
+    min-height: 86px
+  .two-hours-and-half
+    min-height: 107px
+  .three-hours
+    min-height: 129px
+  .five-hours
+    min-height: 302px
+  .six-hours
+    min-height: 320px
+  .eight-hours
+    min-height: 350px
+  .twenty-hours
+    min-height: 680px
+
+#agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right
+  .half-hour
+    min-height: 20px
+  .one-hour
+    min-height: 43px
+  .one-hour-and-half
+    min-height: 64px
+  .two-hours
+    min-height: 86px
+  .two-hours-and-half
+    min-height: 107px
+  .three-hours
+    min-height: 129px
+  .five-hours
+    min-height: 302px
+  .six-hours
+    min-height: 320px
+  .eight-hours
+    min-height: 350px
+  .twenty-hours
+    min-height: 680px
 
 .link-blue-background
   text-decoration: underline
@@ -153,9 +413,15 @@
 
 @media screen and (max-width: 991px)
   #agenda .agenda-wrapper .agenda-day .agenda-activity
-    .half-hour, .one-hour, .one-hour-and-half, .two-hours, .two-hours-and-half, .three-hours, .five-hours, .six-hours, .eight-hours, .twenty-hours
+    .half-hour, .one-hour, .one-hour-and-half, .two-hours, .two-hours-and-half, .three-hours, .five-hours, .six-hours, .eight-hours, .twenty-hours, .thirteen-hours
       min-height: 0
       height: auto
+  #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left
+    .half-hour, .one-hour, .one-hour-and-half, .two-hours, .two-hours-and-half, .three-hours, .five-hours, .six-hours, .eight-hours, .twenty-hours
+      height: 90%
+  #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right
+    .half-hour, .one-hour, .one-hour-and-half, .two-hours, .two-hours-and-half, .three-hours, .five-hours, .six-hours, .eight-hours, .twenty-hours
+      height: 80%
 
 @media screen and (max-width: 626px)
   #agenda .agenda-wrapper .agenda-day

@@ -7,6 +7,210 @@
       </div>
 
       {% for act in day.activities %}
+      {% if act.double %}
+        {% if act.aboutLeft %}
+        <div id="{{ act.nameLeft | slugify }}" class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 activity-box">
+            <div class="col-sm-3 hidden-xs activity-img">
+              <div class=" col-md-offset-4">
+                
+                <i class="fa {{ act.iconLeft }} fa-5x"></i>
+                
+              </div>
+              <div class="activity-info">
+                <div class="activity-datetime">
+                  <p>
+                    {% if act.placeLeft %}
+                    <i class="fa fa-map-marker"></i><span> {{ act.placeLeft }}</span>
+                    {% endif %}
+                  </p>
+                  <p>
+                    <i class="fa fa-clock-o"></i><span>{{ act.timeLeft }}</span>
+                  </p>
+                </div>
+                <div class="container activity-speaker">
+                  {% if act.speakerLeft %}
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <a href="/speakers/#{{ act.speakerLeft | slugify }}">
+                        <i class="fa fa-user"></i><span>{{ act.speakerLeft }}</span>
+                      </a>
+                    </div>
+                  </div>
+                  {% endif %}
+                  {% if act.speakerLeft2 %}
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <a href="/speakers/#{{ act.speakerLeft2 | slugify }}">
+                        <i class="fa fa-user"></i><span>{{ act.speakerLeft2 }}</span>
+                      </a>
+                    </div>
+                  </div>
+                  {% endif %}
+                  {% if act.enterpriseLeft %}
+                  <div class="activity-enterprise">
+                    <a href="{{ act.enterpriseURLLeft }}" target="_blank"><i class="fa fa-building-o"></i><span>{{ act.enterpriseLeft }}</span></a>
+                  </div>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-9 activity-text">
+              <p class="activity-title">{{ act.nameLeft }}</p>
+              {% if act.typeLeft %}
+              <div class="activity-type">
+                <p>{{ act.typeLeft }}</p>
+              </div>
+              <div class="hidden-lg hidden-md hidden-sm activity-info">
+                <div class="activity-datetime">
+                  <div class="col-xs-7 ">
+                    <i class="fa fa-clock-o"></i><span>{{ act.timeLeft }}</span>
+                  </div>
+                  <div class="col-xs-5">
+                    {% if act.placeLeft %}
+                      <i class="fa fa-map-marker"></i><span>{{ act.placeLeft }}</span>
+                    {% endif %}
+                  </div>
+                </div>
+                <div class="container activity-speaker">
+                  {% if act.speakerLeft %}
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <a href="/speakers/#{{ act.speakerLeft | slugify }}">
+                        <i class="fa fa-user"></i><span>{{ act.speakerLeft }}</span>
+                      </a>
+                    </div>
+                  </div>
+                  {% endif %}
+                  {% if act.speakerLeft2 %}
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <a href="/speakers/#{{ act.speakerLeft2 | slugify }}">
+                        <i class="fa fa-user"></i><span>{{ act.speakerLeft2 }}</span>
+                      </a>
+                    </div>
+                  </div>
+                  {% endif %}
+                  {% if act.enterpriseLeft %}
+                  <div class="activity-enterprise">
+                    <a href="{{ act.enterpriseURLLeft }}" target="_blank"><i class="fa fa-building-o"></i><span>{{ act.enterpriseLeft }}</span></a>
+                  </div>
+                  {% endif %}
+                </div>
+              </div>
+              {% endif %}
+              <p class="col-xs-12 activity-text">{{ act.aboutLeft }}</p>
+              {% if act.registerLeft %}
+              <a href="{{ act.registerLeft }}" target="_blank">
+                <button class="btn btn-info btn-sei">Inscrição</button>
+              </a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        {% endif %}
+        {% if act.aboutRight %}
+        <div id="{{ act.nameRight | slugify }}" class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 activity-box">
+            <div class="col-sm-3 hidden-xs activity-img">
+              <div class=" col-md-offset-4">
+                
+                <i class="fa {{ act.iconRight }} fa-5x"></i>
+                
+              </div>
+              <div class="activity-info">
+                <div class="activity-datetime">
+                  <p>
+                    {% if act.placeRight %}
+                    <i class="fa fa-map-marker"></i><span> {{ act.placeRight }}</span>
+                    {% endif %}
+                  </p>
+                  <p>
+                    <i class="fa fa-clock-o"></i><span>{{ act.timeRight }}</span>
+                  </p>
+                </div>
+                <div class="container activity-speaker">
+                  {% if act.speakerRight %}
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <a href="/speakers/#{{ act.speakerRight | slugify }}">
+                        <i class="fa fa-user"></i><span>{{ act.speakerRight }}</span>
+                      </a>
+                    </div>
+                  </div>
+                  {% endif %}
+                  {% if act.speakerRight2 %}
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <a href="/speakers/#{{ act.speakerRight2 | slugify }}">
+                        <i class="fa fa-user"></i><span>{{ act.speakerRight2 }}</span>
+                      </a>
+                    </div>
+                  </div>
+                  {% endif %}
+                  {% if act.enterpriseRight %}
+                  <div class="activity-enterprise">
+                    <a href="{{ act.enterpriseURLRight }}" target="_blank"><i class="fa fa-building-o"></i><span>{{ act.enterpriseRight }}</span></a>
+                  </div>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-9 activity-text">
+              <p class="activity-title">{{ act.nameRight }}</p>
+              {% if act.typeRight %}
+              <div class="activity-type">
+                <p>{{ act.typeRight }}</p>
+              </div>
+              <div class="hidden-lg hidden-md hidden-sm activity-info">
+                <div class="activity-datetime">
+                  <div class="col-xs-7 ">
+                    <i class="fa fa-clock-o"></i><span>{{ act.timeRight }}</span>
+                  </div>
+                  <div class="col-xs-5">
+                    {% if act.placeRight %}
+                      <i class="fa fa-map-marker"></i><span>{{ act.placeRight }}</span>
+                    {% endif %}
+                  </div>
+                </div>
+                <div class="container activity-speaker">
+                  {% if act.speakerRight %}
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <a href="/speakers/#{{ act.speakerRight | slugify }}">
+                        <i class="fa fa-user"></i><span>{{ act.speakerRight }}</span>
+                      </a>
+                    </div>
+                  </div>
+                  {% endif %}
+                  {% if act.speaker2Right %}
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <a href="/speakers/#{{ act.speaker2Right | slugify }}">
+                        <i class="fa fa-user"></i><span>{{ act.speaker2Right }}</span>
+                      </a>
+                    </div>
+                  </div>
+                  {% endif %}
+                  {% if act.enterpriseRight %}
+                  <div class="activity-enterprise">
+                    <a href="{{ act.enterpriseURLRight }}" target="_blank"><i class="fa fa-building-o"></i><span>{{ act.enterpriseRight }}</span></a>
+                  </div>
+                  {% endif %}
+                </div>
+              </div>
+              {% endif %}
+              <p class="col-xs-12 activity-text">{{ act.aboutRight }}</p>
+              {% if act.registerRight %}
+              <a href="{{ act.registerRight }}" target="_blank">
+                <button class="btn btn-info btn-sei">Inscrição</button>
+              </a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        {% endif %}
+      {% endif %}
       {% if act.about %}
       <div id="{{ act.name | slugify }}" class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 activity-box">
@@ -48,7 +252,7 @@
                 {% endif %}
                 {% if act.enterprise %}
                 <div class="activity-enterprise">
-                  <a href="{{ act.enterprise_url }}" target="_blank"><i class="fa fa-building-o"></i><span>{{ act.enterprise }}</span></a>
+                  <a href="{{ act.enterpriseURL }}" target="_blank"><i class="fa fa-building-o"></i><span>{{ act.enterprise }}</span></a>
                 </div>
                 {% endif %}
               </div>
@@ -92,7 +296,7 @@
                 {% endif %}
                 {% if act.enterprise %}
                 <div class="activity-enterprise">
-                  <a href="{{ act.enterprise_url }}" target="_blank"><i class="fa fa-building-o"></i><span>{{ act.enterprise }}</span></a>
+                  <a href="{{ act.enterpriseURL }}" target="_blank"><i class="fa fa-building-o"></i><span>{{ act.enterprise }}</span></a>
                 </div>
                 {% endif %}
               </div>
