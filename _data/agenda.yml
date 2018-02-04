@@ -26,8 +26,8 @@
       enterpriseURL: https://unbabel.com/
       time: 10:30-11:30
       duration: one-hour
-      icon: fa-cogs
       about: Machine Learning
+      icon: fa-cogsg
       type: talk
 
     - coffee: true
@@ -38,7 +38,7 @@
       time: 12:00-13:00
       duration: one-hour 
       type: talk
-      about: Big Data
+      about: O tema será iniciado com uma componente descritiva em torno do conceito de Big Data, o seu papel no presente e a evolução prevista (o porquê da necessidade, a linha ténue entre as soluções tradicionais de BI (ETL vs ELT, por exemplo) e as novas abordagens e alternativas/complementos que Big Data pode trazer, etc). Seguir-se-á uma abordagem às soluções Near Real Time e uma demo que mostre um exemplo concreto de tratamento de dados em escala significativa em Near Real Time.
       icon: fa-database
       enterprise: XpandIT
       enterpriseURL: https://www.xpand-it.com/
@@ -164,14 +164,19 @@
       icon: fa-lock
       type: talk
       
-    - name: TBA
-      time: 17:30-18:30 
+    - name: What about the future?
+      speaker: Alberto Proença
+      speaker2: José Nuno Oliveira
+      time: 17:30-18:30
+      type: Tertulia
       duration: one-hour
-      tba: true
+      icon: fa-desktop
+      about: Convidamos alguns dos professores mais carismáticos do nosso departamento para discutirem o futuro da engenharia informática. Não podes mesmo perder esta conversa!
 
-    - name: Arraial 
-      time: 22:00-00:00
-      duration: two-hours
+    - name: Arraial de engenharia
+      time: 20:30-23:30
+      duration: three-hours
+      about: Com bifanas e finos à venda, ao som do Dj Epirex, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!
       type: social
 
 - wednesday:
@@ -241,17 +246,21 @@
       about: Com base nas boas práticas atuais, a Dipcode implementou a sua própria metodologia de desenvolvimento face à qualidade pretendida na concepção de software. Git, Docker, integração continua, code review, branches, serão alguns dos assuntos abordados nesta sessão que pretende partilhar os processos e ferramentas utilizados na empresa.
       icon: fa-wrench
       
-    - name: TBA
+    - name: "Ser-se 'Women in Tech'"
+      speaker: Mariana Gomes
+      speaker2: Ana Sampaio
+      speaker3: Sandra Costa
+      speaker4: JBB
       time: 17:30-18:30
       type: Tertulia
       duration: one-hour
       icon: fa-female
-      tba: true
+      about: O que é ser-se mulher na tecnologia? O que se poderia fazer melhor? Para responder a estas perguntas vamos conversar com verdadeiras ‘women in tech’ e partilhar experiências e opiniões sobre o tema.
 
     - name: Rally de LEI
       time: 22:00-00:00
       duration: two-hours
-      icon: fa-beer 
+      icon: fa-beer
       about: "O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI. Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/2022939851296145/' target='_blank'>Facebook</a>."
       type: social
 
@@ -282,6 +291,7 @@
     - coffee: true
 
     - name: TBA
+      speaker: Vodafone
       time: 12:00-13:00
       duration: one-hour
       icon: fa-coffee
@@ -310,13 +320,14 @@
     
     - coffee: true
     
-    - name: TBA
-      enterprise: itGrow
+    - name: "AI&ML @Critical Software: A Guided Tour"
+      enterprise: Critical Software
+      enterpriseURL: https://www.criticalsoftware.com/
       time: 16:30-17:30
       duration: one-hour
-      icon: fa-keyboard-o
+      icon: fa-cogs
       type: talk
-      tba: true
+      about: Machine Learning e Inteligência Artificial
 
     - name: Into the Blockchain
       speaker: Miguel Amador
@@ -332,13 +343,24 @@
   date: 9 FEV
   dayOfWeek: SEXTA
   activities:
-    - name: iOS - Facebook in 50 Swifty minutes
-      speaker: Diogo Martins
-      type: workshop
-      time: 09:30-11:30
-      duration: two-hours
-      icon: fa-apple
-      about: Neste workshop vai fazer-se um pequeno crash course em Swift onde vai ser desenvolvida uma aplicação iOS semelhante ao feed de notícias do Facebook. Além de conceitos básicos de iOS/Swift, vai falar-se de desenvolvimento de UI, estrutura do projecto e boas práticas.
+    - double: true
+      nameLeft: iOS - Facebook in 50 Swifty minutes
+      speakerLeft: Diogo Martins
+      typeLeft: workshop
+      timeLeft: 09:30-11:30
+      durationLeft: two-hours
+      iconLeft: fa-apple
+      enterpriseLeft: Nutrium
+      enterpriseURLLeft: https://nutrium.io/
+      aboutLeft: Neste workshop vai fazer-se um pequeno crash course em Swift onde vai ser desenvolvida uma aplicação iOS semelhante ao feed de notícias do Facebook. Além de conceitos básicos de iOS/Swift, vai falar-se de desenvolvimento de UI, estrutura do projecto e boas práticas.
+      nameRight: (Re)Cria o teu CV
+      speakerRight: Flávia Faria
+      enterpriseRight: GIP - AAUM
+      enterpriseURLRight: http://gip.aaum.pt/
+      durationRight: one-hour
+      timeRight: 10:30-11:30
+      iconRight: fa-paperclip
+      aboutRight: O currículo é o "cartão de visita" e o primeiro contacto do candidato com o empregador. Vem aprender algumas dicas para teres um CV implacável e diferenciador.
 
     - coffee: true
 

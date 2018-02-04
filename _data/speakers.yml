@@ -258,7 +258,7 @@
   id: 30
 
 - name: Francisco Neves
-  pic: francisco-neves.jpg
+  pic: francisco-neves.png
   position: Researcher
   github: https://github.com/fntneves
   twitter: https://twitter.com/fntneves
@@ -274,3 +274,50 @@
   enterpriseURL: https://www.farfetch.com
   about: A Ana Sampaio estudou Engenharia Informática na Universidade do Minho. Tem trabalhado maioritariamente com tecnologias front-end, desenvolvendo aplicações web em AngularJS e ReactJS. Atualmente é Front-end Developer na Farfetch. Os projectos “open source” em que colabora são orientados para a comunidades offline, como é o caso do Girls Lean In. Faz parte da equipa do 10web, um podcast sobre tecnologias web.
   id: 32
+
+- name: Sandra Costa
+  pic: sandra-costa.jpg
+  position: Software Product Owner
+  enterprise: Bosch Braga
+  enterpriseURL: http://www.bosch.pt/pt/pt/startpage_10/country-landingpage.php
+  about: Formada em Engenharia Electrónica Industrial e Computadores, terminou o seu doutoramento em Robótica em 2015, verificando o impacto da utilização de um robô humanóide, capaz de simular expressões faciais básicas como mediador de interações sociais com crianças com Perturbações do Espectro do Autismo e outro ser humano. Product Owner da equipa de SW da Bosch Braga responsável pela implementação das funcionalidades de comunicação e segurança de sensores de “Passive Safety”. Estas funcionalidades são implementadas segundo a arquitectura AUTOSAR e os sensores são utilizados em projectos de condução autónoma.
+  id: 33
+
+- name: Mariana Gomes
+  pic: mariana-gomes.jpg
+  position: Co-founder & Managing Director
+  enterprise: MUB cargo
+  enterpriseURL: https://www.mubcargo.com/
+  about: Mariana Gomes lançou a sua primeira ideia de negócio em 2014, uma plataforma online que atualmente ajuda mais de 1000 artistas emergentes a divulgar as suas obras, chamada shairart.com. Após dois anos, decide fazer um MBA na Porto Business School. Foi aí que conheceu o resto da equipa de co-fundadores da MUB cargo (www.mubcargo.com), uma solução online que permite obter melhores preços para o transporte de mercadorias.
+  id: 34
+
+- name: Flávia Faria
+  pic: flavia-faria-gip.jpg
+  enterprise: GIP - AAUM
+  enterpriseURL: http://gip.aaum.pt/
+  about: Licenciada em Sociologia e pós-graduada em Gestão de Recursos Humanos pela UMinho, é a técnica responsável pelo GIP (Gabinete de Inserção Profissional) da AAUM.
+  id: 35
+
+- name: José Nuno Oliveira
+  pic: jno.jpg
+  position: Professor
+  enterprise: Universidade do Minho
+  enterpriseURL: https://www.uminho.pt/
+  about: Investigador do Laboratório de Software Confiável (HASLab) e professor do Departamento de Informática da Escola de Engenharia da Universidade do Minho.
+  id: 36
+
+- name: Alberto Proença
+  pic: proença.jpg
+  position: Professor
+  enterprise: Universidade do Minho
+  enterpriseURL: https://www.uminho.pt/
+  about: Professor do Departamento de Informática da Escola de Engenharia da Universidade do Minho. Professor catedrático desde 2001.
+  id: 37
+
+- name: JBB
+  pic: jbb.jpg
+  position: Professor
+  enterprise: Universidade do Minho
+  enterpriseURL: https://www.uminho.pt/
+  about: José Bernardo Barros, mais conhecido pelos seus alunos como JBB, é professor no Departamento de Informática da Universidade do Minho e Senior Researcher no HASLab/INESC TEC.
+  id: 37
