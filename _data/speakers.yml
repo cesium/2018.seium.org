@@ -256,3 +256,21 @@
   enterpriseURL: https://subvisual.co/
   about: Fernando Mendes é um novo ex-aluno da UMinho. Fundador do Include Braga e voluntário no Coderdojo Braga, atualmente trabalha na Subvisual onde troca café por código profissionalmente.
   id: 30
+
+- name: Francisco Neves
+  pic: francisco-neves.jpg
+  position: Researcher
+  github: https://github.com/fntneves
+  twitter: https://twitter.com/fntneves
+  enterprise: HASLab
+  enterpriseURL: http://haslab.uminho.pt/
+  about: Francisco Neves é um entusiasta do mundo das tecnologias web, ainda que ultimamente tenha mergulhado nas profundezas do kernel do Linux. A paixão pela programação para a web despoletou em si uma vontade imensa de contribuir para esse mundo. Atualmente é aluno de doutoramento e investigador no HASLab, centro I&D integrado do INESC TEC, e mantém a dedicação a pequenos projetos open-source e a gerir projetos nos Hackathonners, grupo que fundou com o objetivo de partilhar experiências e fomentar a aprendizagem de novas tecnologias através de organização e participação em hackathons.
+  id: 31
+
+- name: Ana Sampaio
+  pic: ana-sampaio-farfetch.png
+  position: Frontend Developer
+  enterprise: Farfetch
+  enterpriseURL: https://www.farfetch.com
+  about: A Ana Sampaio estudou Engenharia Informática na Universidade do Minho. Tem trabalhado maioritariamente com tecnologias front-end, desenvolvendo aplicações web em AngularJS e ReactJS. Atualmente é Front-end Developer na Farfetch. Os projectos “open source” em que colabora são orientados para a comunidades offline, como é o caso do Girls Lean In. Faz parte da equipa do 10web, um podcast sobre tecnologias web.
+  id: 32

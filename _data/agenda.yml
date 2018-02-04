@@ -92,7 +92,7 @@
     - name: Tabletop meetup
       time: 21:30-23:30
       duration: two-hours
-      about: Encontro de amantes de jogos e aventuras analógicas, com o objetivo de promover a interação entre os participantes da SEI.
+      about: Encontro de amantes de jogos e aventuras analógicas!
       type: social
       icon: fa-users
 
@@ -100,12 +100,15 @@
   date: 6 FEV
   dayOfWeek: TERÇA
   activities:
-    - name: TBA
-      time: 9:30-11:30
+    - name: Real-time webapps com Laravel e Pusher
+      speaker: Francisco Neves
+      enterprise: HASLab
+      enterpriseURL: http://haslab.uminho.pt/
+      time: 09:30-11:30
       duration: two-hours
+      icon: fa-globe
+      about: Se tempo é dinheiro, poupemos F5s. As aplicações real-time crescem a cada dia e dotar uma aplicação destas tecnologias pode ser incrivelmente simples. Aproveitando a onda da crescente popularidade da framework web Laravel,  vem desenvolver uma pequena aplicação integrada com o Pusher, um serviço de tecnologias realtime que vais querer integrar nos teus próximos projetos.
       type: workshop
-      icon: fa-road
-      tba: true
 
     - coffee: true
 
