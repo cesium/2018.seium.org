@@ -186,7 +186,7 @@
       aboutLeft: Neste workshop mostraremos como criar uma SPA (single page application) simples. Vamos criar um pseudo blog como validação do conceito. Para tal, usaremos Angular + ES6 + Webpack para o Frontend e Node.js para o Backend. Para além das instruções de como o fazer, vamos ensinar-te pequenas dicas para melhorar a performance e manutenção das coisas.
       typeLeft: workshop
       nameRight: A journey through P2P land
-      speakerRight: Fernando Mendes
+      speakerRight: F. Mendes
       enterpriseRight: Subvisual
       enterpriseURLRight: https://subvisual.co/
       timeRight: 10:30-11:30
@@ -218,12 +218,12 @@
       icon: fa-android
       tba: true 
 
-    - name: TBA
+    - name: So you want to make videogames?
       speaker: Thomas Papa
       time: 15:00-16:00
       duration: one-hour
       type: talk
-      tba: true
+      about: O que é que o Wild West, a princesa Pêssego e um carro de observação Amtrak têm em comum? São coisas que podes encontrar quando embarcas na viagem de desenvolver videojogos como modo de vida. Desenvoler videojogos, profissionalmente, é uma opção de carreira que frequentemente é encoberta em mistério quando toca a operações diárias. Esta palestra visa, precisamente, desmistificar isto e explorar 5 formas diferentes de enveredar por uma carreira nos videojogos. Também levantará a cortina sobre o que realmente significa correr um independent game e VR studio em Portugal, cobrindo aspetos como studio financing, Steam market research e "the two Johns”.
 
     - coffee: true
 
