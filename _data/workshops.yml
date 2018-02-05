@@ -2,23 +2,26 @@
   speaker: Francisco Neves
   desc: Se tempo é dinheiro, poupemos F5s. As aplicações real-time crescem a cada dia e dotar uma aplicação destas tecnologias pode ser incrivelmente simples. Aproveitando a onda da crescente popularidade da framework web Laravel, vem desenvolver uma pequena aplicação integrada com o Pusher, um serviço de tecnologias realtime que vais querer integrar nos teus próximos projetos.
   class: dark
-  link: http://seium.org/speakers/#francisco-neves
+  speakerRef: http://seium.org/speakers/#francisco-neves
+  link: https://cesium.typeform.com/to/BHAOQH
 
 - name: BUILDING A SINGLE PAGE APPLICATION
   speaker: Bruno Araújo & Gonçalo Matos
   desc: Neste workshop mostraremos como criar uma SPA (single page application) simples. Vamos criar um pseudo blog como validação do conceito. Para tal, usaremos Angular + ES6 + Webpack para o Frontend e Node.js para o Backend. Para além das instruções de como o fazer, vamos ensinar-te pequenas dicas para melhorar a performance e manutenção das coisas.
   class: light
-  link: http://seium.org/speakers/#bruno-ara%C3%BAjo
+  speakerRef: http://seium.org/speakers/#bruno-ara%C3%BAjo
+  link: https://cesium.typeform.com/to/FBWRK5
 
-- name: H20 - “THE WORLD’S BEST MACHINE LEARNING PLATFORM” OVERVIEW
-  speaker: Pedro Duarte
-  desc: Nesta palestra irá realizar-se uma introdução à plataforma H2O que torna Machine Learning escalável e acessível para extração de conhecimento de dados sem necessidade de experiência na implementação ou ajuste de modelos. Para além disso, será efetuada uma pequena demonstração usando a interface gráfica H2O Flow e a interação com R.
+- name: Android Workshop
+  speaker: João Vilela
+  desc: O Android OS é, atualmente, o sistema operativo móvel com maior penetração de mercado sendo o desenvolvimento de apps para este sistema operativo uma skill com bastante procura no mercado de trabalho. Com este workshop pretende-se fazer uma breve introdução ao desenvolvimento de aplicações nativas para Android, onde serão abordados alguns conceitos básicos, best practices e patterns necessários para o desenvolvimento de apps, com exemplos práticos através do desenvolvimento de uma app Android. Para participar neste workshop é apenas necessário conhecimentos básicos de programação, um computador com Android Studio instalado e boa disposição!
   class: dark
-  link: http://seium.org/speakers/#pedro-duarte
+  speakerRef: http://seium.org/speakers/#joão-vilela
+  link: https://cesium.typeform.com/to/ihry6q
 
 - name: IOS - FACEBOOK IN 50 SWIFTY MINUTES
   speaker: Diogo Martins
   desc: Neste workshop vai fazer-se um pequeno crash course em Swift onde vai ser desenvolvida uma aplicação iOS semelhante ao feed de notícias do Facebook. Além de conceitos básicos de iOS/Swift, vai falar-se de desenvolvimento de UI, estrutura do projecto e boas práticas.
   class: light
-  link: http://seium.org/speakers/#diogo-martins
-
+  speakerRef: http://seium.org/speakers/#diogo-martins
+  link: https://cesium.typeform.com/to/DpVnNj
