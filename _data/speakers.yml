@@ -331,3 +331,11 @@
   twitter: https://twitter.com/ruipmarinho
   about: Rui Marinho é Engenheiro de Software na Uphold, projecto que ajudou a construir, e actualmente um dos responsáveis de engenharia da plataforma. Nos seus tempos livres dedica-se ao estudo nas áreas dele segurança e redes, conhecimento este que explora também nos seus projectos de automação em casa. Esta mistura de interesses dotou-o da capacidade de desenhar e construir projectos e infra-estruturas de grande escala, tendo-se especializado em sistemas críticos de alta disponibilidade em que a componente da segurança se assume como uma das principais prioridades. É colaborador frequente em diversos projectos open-source, muitos dos quais na área das criptomoedas.
   id: 39
+
+- name: Paulo S. Almeida
+  pic: psa.jpg
+  position: Professor
+  enterprise: Universidade do Minho
+  enterpriseURL: https://www.uminho.pt/
+  about: Paulo Sérgio Almeida é professor no Departamento de Informática da Universidade do Minho e Researcher na área dos sistemas distribuídos no HASLab.
+  id: 40
