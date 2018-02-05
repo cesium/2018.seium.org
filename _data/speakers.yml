@@ -247,7 +247,7 @@
   about: Gonçalo Matos foi formado no ISEP em Engenharia Informática. Daí, seguiu e foi SQL Developer durante dois anos. Resolveu então trocar de ares e passou para Frontend Developer na Blip onde é aturado há, também, dois anos. Fundamentalista como é, o Javascript tornou-se a escolha ideal para chatear o maior número de pessoas. Gosta, então, de brincar com tecnologias novas de forma a poder dizer mal de todas as picuinhices que vê.
   id: 29
 
-- name: Fernando Mendes
+- name: F. Mendes
   pic: mendes.jpg
   position: Developer
   github: https://github.com/fribmendes
@@ -320,4 +320,14 @@
   enterprise: Universidade do Minho
   enterpriseURL: https://www.uminho.pt/
   about: José Bernardo Barros, mais conhecido pelos seus alunos como JBB, é professor no Departamento de Informática da Universidade do Minho e Senior Researcher no HASLab/INESC TEC.
-  id: 37
+  id: 38
+
+- name: Rui Marinho
+  pic: rui-marinho-uphold.jpg
+  position: Software Engineer
+  enterprise: Uphold
+  enterpriseURL: https://uphold.com/
+  github: https://github.com/ruimarinho
+  twitter: https://twitter.com/ruipmarinho
+  about: Rui Marinho é Engenheiro de Software na Uphold, projecto que ajudou a construir, e actualmente um dos responsáveis de engenharia da plataforma. Nos seus tempos livres dedica-se ao estudo nas áreas dele segurança e redes, conhecimento este que explora também nos seus projectos de automação em casa. Esta mistura de interesses dotou-o da capacidade de desenhar e construir projectos e infra-estruturas de grande escala, tendo-se especializado em sistemas críticos de alta disponibilidade em que a componente da segurança se assume como uma das principais prioridades. É colaborador frequente em diversos projectos open-source, muitos dos quais na área das criptomoedas.
+  id: 39

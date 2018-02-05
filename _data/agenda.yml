@@ -321,8 +321,9 @@
 
     - name: Into the Blockchain
       speaker: Miguel Amador
-      speaker2: Fernando Mendes
-      speaker3: Tiago Aires Mateus
+      speaker2: F. Mendes
+      speaker3: Tiago Mateus
+      speaker4: Rui Marinho
       time: 17:30-18:30
       duration: one-hour 
       icon: fa-bitcoin
