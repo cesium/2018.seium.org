@@ -132,7 +132,7 @@
       icon: fa-road
       tba: true
 
-    - name: TBA
+    - name: "GitLab: One Tool for Software Development"
       speaker: Filipa Lacerda
       speaker2: Pedro Moreira da Silva
       enterprise: GitLab
@@ -141,7 +141,7 @@
       duration: one-hour
       icon: fa-question
       type: talk
-      tba: true
+      about: Filipa Lacerda e Pedro Moreira da Silva vêm falar-te de como a GitLab pode ser uma ferramenta útil para os teus projetos.
 
     - coffee: true
 
