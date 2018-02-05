@@ -76,7 +76,7 @@
 
 - name: Desafio de Segurança CTF
   desc: Para participares, junta-te numa equipa de dois a três elementos e envia um e-mail para securitychallenge@cesium.di.uminho.pt com o nome da equipa, nome e emails dos membros. Existe um servidor instalado no IP 193.136.19.39. Abre o enunciado para saber o que fazer!
- enunciadol: https://github.com/0urobor0s/ctf-sei18-resources/blob/master/enunciado.md
+  enunciadol: https://github.com/0urobor0s/ctf-sei18-resources/blob/master/enunciado.md
   class: light
   prizes:
     - name: Óculos VR
