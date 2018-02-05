@@ -22,8 +22,9 @@ $(document).ready(function(){
   ]
   });
 
+  var day = new Date().getDay();
   var slickOpts = {
-    initialSlide: 0,
+    initialSlide: day,
     dots: true,
     autoplay: false,
     infinite: false,
