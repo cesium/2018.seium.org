@@ -34,6 +34,10 @@ layout: default
       {{ challenge.desc }}
     </span>
 
+    {% if challenge.enunciadol %}
+    <div class="col-md-5 col-md-offset-1 ac-container">
+    <a href="{{ challenge.enunciadol }}" target="_blank"><button class="btn btn-info btn-sei btn-des">ENUNCIADO</button></a>
+    {% endif %}
 
     {% if challenge.enunciado %}
     <div class="col-md-5 col-md-offset-1 ac-container">
