@@ -26,7 +26,7 @@
       enterpriseURL: https://unbabel.com/
       time: 10:30-11:30
       duration: one-hour
-      about: Machine Learning
+      about: Overview das aplicações de inteligência artificial e machine learning na pipeline da Unbabel.
       icon: fa-cogsg
       type: talk
 
@@ -132,15 +132,6 @@
       icon: fa-road
       tba: true
 
-#    - name: Artificial Intelligence @ Accenture
-#      speaker: Pedro Couto
-#      enterprise: Accenture
-#      time: 14:00-15:00
-#      duration: one-hour
-#      type: talk
-#      icon: fa-level-up
-#      about: Machine Learning
-
     - name: TBA
       speaker: Filipa Lacerda
       speaker2: Pedro Moreira da Silva
@@ -176,7 +167,7 @@
     - name: Arraial de engenharia
       time: 20:30-23:30
       duration: three-hours
-      about: Com bifanas e finos à venda, ao som do Dj Epirex, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica!
+      about: "Com bifanas e finos à venda, ao som do Dj Epirex, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica! Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/161849231269866/' target='_blank'>Facebook</a>."
       type: social
 
 - wednesday:
@@ -258,8 +249,8 @@
       about: O que é ser-se mulher na tecnologia? O que se poderia fazer melhor? Para responder a estas perguntas vamos conversar com verdadeiras ‘women in tech’ e partilhar experiências e opiniões sobre o tema.
 
     - name: Rally de LEI
-      time: 22:00-00:00
-      duration: two-hours
+      time: 21:30-23:30
+      duration: three-hours
       icon: fa-beer
       about: "O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI. Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/2022939851296145/' target='_blank'>Facebook</a>."
       type: social
@@ -291,7 +282,6 @@
     - coffee: true
 
     - name: TBA
-      speaker: Vodafone
       time: 12:00-13:00
       duration: one-hour
       icon: fa-coffee

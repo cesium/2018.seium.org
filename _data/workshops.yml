@@ -1,0 +1,24 @@
+- name: REAL-TIME WEBAPPS COM LARAVEL E PUSHER
+  speaker: Francisco Neves
+  desc: Se tempo é dinheiro, poupemos F5s. As aplicações real-time crescem a cada dia e dotar uma aplicação destas tecnologias pode ser incrivelmente simples. Aproveitando a onda da crescente popularidade da framework web Laravel, vem desenvolver uma pequena aplicação integrada com o Pusher, um serviço de tecnologias realtime que vais querer integrar nos teus próximos projetos.
+  class: dark
+  link: http://seium.org/speakers/#francisco-neves
+
+- name: BUILDING A SINGLE PAGE APPLICATION
+  speaker: Bruno Araújo & Gonçalo Matos
+  desc: Neste workshop mostraremos como criar uma SPA (single page application) simples. Vamos criar um pseudo blog como validação do conceito. Para tal, usaremos Angular + ES6 + Webpack para o Frontend e Node.js para o Backend. Para além das instruções de como o fazer, vamos ensinar-te pequenas dicas para melhorar a performance e manutenção das coisas.
+  class: light
+  link: http://seium.org/speakers/#bruno-ara%C3%BAjo
+
+- name: H20 - “THE WORLD’S BEST MACHINE LEARNING PLATFORM” OVERVIEW
+  speaker: Pedro Duarte
+  desc: Nesta palestra irá realizar-se uma introdução à plataforma H2O que torna Machine Learning escalável e acessível para extração de conhecimento de dados sem necessidade de experiência na implementação ou ajuste de modelos. Para além disso, será efetuada uma pequena demonstração usando a interface gráfica H2O Flow e a interação com R.
+  class: dark
+  link: http://seium.org/speakers/#pedro-duarte
+
+- name: IOS - FACEBOOK IN 50 SWIFTY MINUTES
+  speaker: Diogo Martins
+  desc: Neste workshop vai fazer-se um pequeno crash course em Swift onde vai ser desenvolvida uma aplicação iOS semelhante ao feed de notícias do Facebook. Além de conceitos básicos de iOS/Swift, vai falar-se de desenvolvimento de UI, estrutura do projecto e boas práticas.
+  class: light
+  link: http://seium.org/speakers/#diogo-martins
+

@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<section id="workshops">
+
+  <div class="container">
+    <div class="section-title-container text-center">
+      <h1 class="section-title">Workshops</h1>
+    </div>
+
+    <div class="col-md-offset-2 col-md-8 def-text">
+
+      Inscreve-te aqui para os workshops que não queres mesmo perder.<br>
+      As inscrições são limitadas, apressa-te!
+
+    </div>
+  </div>
+</section>
+
+{% for workshop in site.data.workshops %}
+
+<section class="{{ workshop.class }} col-md-12">
+  <div class="col-md-8 col-md-offset-2">
+
+    <div class=" container des-subtitle col-md-12">
+      {{ workshop.name }}
+    </div>
+
+    <span class="col-md-offset-2 def-text col-md-8">
+      {{ workshop.desc }}
+    </span>
+
+    <a href="{{ workshop.speakerRef }}" class="col-md-offset-2 col-md-8">
+      <b>Orador:</b> {{ workshop.speaker }}
+    </a>
+
+    <a href="{{ workshop.link }}" class="col-md-offset-2 def-text col-md-8">
+      <button class="btn btn-info btn-sei btn-des">INSCREVER</button>   
+    </a>
+
+  </div>
+</section>
+
+{% endfor %}
