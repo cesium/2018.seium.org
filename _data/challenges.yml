@@ -19,7 +19,7 @@
         <br>Diverte-te e encontra os badges! Só os melhores colecionadores terão oportunidade de ganhar um destes fantásticos prémios.
   class: dark
   prizes:
-    - name: Overboard
+    - name: Hoverboard
       num: 1
       img: fa-star
 
