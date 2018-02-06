@@ -211,13 +211,13 @@
     
     - meal: true
 
-    - name: TBA
+    - name: Android
       speaker: Francisco Franco
       type: talk
       time: 14:00-15:00
       duration: one-hour
       icon: fa-android
-      tba: true 
+      about: Francisco Franco vem falar-te da sua experiência em Kernel Android.
 
     - name: So you want to make videogames?
       speaker: Thomas Papa
