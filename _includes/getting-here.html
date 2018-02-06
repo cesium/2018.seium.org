@@ -14,11 +14,12 @@
     <div class="transports-list">
       {% for transport in site.data.transports %}
       <div class="transports-list-cell">
-        <div class="transport-img">
-          <a href="#{{transport.name}}"/>
-          {% image 'icons/{{ transport.pic }}' class:transport-pic %}
-        </div>
-        <span class="transport-name">{{ transport.name }}</span>
+        <a href="#{{transport.name}}">
+          <div class="transport-img">
+            {% image 'icons/{{ transport.pic }}' class:transport-pic %}
+          </div>
+          <span class="transport-name">{{ transport.name }}</span>
+        </a>
       </div>
       {% endfor %}
     </div>
