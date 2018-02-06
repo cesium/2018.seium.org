@@ -125,12 +125,12 @@
 
     - meal: true
 
-    - name: TBA
+    - name: 1v1 Tournament
       time: 14:00-15:00
       duration: one-hour
       type: talk
-      icon: fa-road
-      tba: true
+      icon: fa-trophy
+      about: Desafios de programação 1v1. Comecem os duelos!
 
     - name: "GitLab: One Tool for Software Development"
       speaker: Filipa Lacerda
@@ -282,12 +282,13 @@
     
     - coffee: true
 
-    - name: TBA
+    - name: Everyone is excited to Bitcoin and Blockchain, shall I?
       time: 12:00-13:00
       duration: one-hour
-      icon: fa-coffee
+      icon: fa-bitcoin
+      about: "Raramente encontras uma pessoa que não esteja a par da Bitcoin, até mesmo pessoas com alguma idade. E atualmente o mercado total de criptomoedas vai já em torno de um trilião de USDs. Isto é sem dúvida algo sério, que merece a nossa atenção enquanto 'nerds' da tecnologia. Nesta palestra, tentar-se-á brevemente apresentar a Bitcoin e a tecnologia de Blockchain em que está envolta, introduzindo alguns casos de utilização de real interesse, o seu uso e abuso, e tentando ajudar-te a responder à questão: toda a gente está entusiasmada com Bitcoin e Blockchain, também devo estar?"
       type: talk
-      tba: true
+      speaker: Ali Shoker
 
     - meal: true
 
