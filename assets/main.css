@@ -8727,35 +8727,6 @@ body {
   transform: translateY(0px); }
 .nav-item a:hover, .nav-item a:focus {
   background-color: transparent !important; }
-.nav-item li div .dropdown-content a:hover {
-  background-color: black; }
-
-.dropdown-content {
-  display: block;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-  z-index: 1; }
-  @media (max-width: 991px) {
-    .dropdown-content {
-      background-color: inherit;
-      padding-left: 2vw;
-      box-shadow: unset; } }
-
-.dropdown-content a {
-  float: none;
-  color: #191970;
-  padding: 10px 16px;
-  text-decoration: none;
-  display: block;
-  text-align: left; }
-  @media (max-width: 991px) {
-    .dropdown-content a {
-      color: white; } }
-
-#registrations:hover .dropdown-content {
-  display: block; }
 
 #nav-logo {
   padding: 0px;
