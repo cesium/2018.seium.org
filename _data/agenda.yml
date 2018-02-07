@@ -8,6 +8,7 @@
       about: "O CoderDojo é uma rede global de clubes de programação gratuitos e sem fins lucrativos com o objetivo de ensinar jovens dos 7 aos 17 a programar. Fundado em 2011 este movimento conta já com mais de 600 Dojos (clubes) dispersos por 60 países. Em Braga, desde 2013 que o CoderDojo Minho tem trabalhado de perto com vários jovens criando pequenas apps, websites, jogos, e outras plataformas. Os participantes, apelidados “ninjas”, aprendem assim com a ajuda de vários mentores que a programação é uma força capaz de mudar o mundo."
       icon: fa-users
       type: social
+      place: Generation
 
 - monday:
   date: 5 FEV
@@ -19,6 +20,7 @@
       icon: fa-scissors
       about: Sessão inaugural da edição deste ano. Será apresentado o calendário, os desafios e os parceiros da SEI. E, possivelmente, uma ou duas surpresas.
       type: social
+      place: CP2-B1
 
     - name: AI Stack
       speaker: Miguel Ramos
@@ -27,8 +29,9 @@
       time: 10:30-11:30
       duration: one-hour
       about: Overview das aplicações de inteligência artificial e machine learning na pipeline da Unbabel.
-      icon: fa-cogsg
+      icon: fa-cogs
       type: talk
+      place: CP2-B1
 
     - coffee: true
 
@@ -42,7 +45,8 @@
       icon: fa-database
       enterprise: XpandIT
       enterpriseURL: https://www.xpand-it.com/
-      type: talk 
+      type: talk
+      place: CP2-B1
 
     - meal: true
 
@@ -55,6 +59,7 @@
       icon: fa-table
       type: talk 
       about: Nesta talk terão a oportunidade de conhecer com maior detalhe o papel da tecnologia no retalho e, especificamente, num contexto empresarial tão dinâmico como o da Sonae.
+      place: CP2-B1
 
     - name: Fogos.pt - A história, a tecnologia e os problemas
       speaker: João Pina
@@ -65,6 +70,7 @@
       icon: fa-fire
       type: talk
       about: Uma conversa onde são apresentados alguns marcos históricos do Fogos.pt. A tecnologia por detrás e alguns problemas encontrados no caminho!
+      place: CP2-B1
 
     - coffee: true
     
@@ -78,6 +84,7 @@
       about: A Inteligência Artificial, o Machine Learning e o Blockchain foram temas de grande destaque na Web Summit 2017 e são as tendências da inovação tecnológica da PRIMAVERA para 2018. Estas tecnologias fazem parte de uma visão para construir produtos inteligentes que servirá de orientação para o futuro do software de gestão da PRIMAVERA. Ficaste curioso? Então esta sessão é para ti!
       type: talk
       icon: fa-desktop
+      place: CP2-B1
 
     - name: How to work remotely and live wherever you want
       speaker: Job van der Voort
@@ -88,6 +95,7 @@
       about: Job trabalha na GitLab e vem falar-te de como trabalha remotamente, permitindo-lhe viver onde quer.
       type: talk
       icon: fa-briefcase
+      place: CP2-B1
 
     - name: Tabletop meetup
       time: 21:30-23:30
@@ -95,6 +103,7 @@
       about: Encontro de amantes de jogos e aventuras analógicas!
       type: social
       icon: fa-users
+      place: Drawstep, Bragashopping
 
 - tuesday:
   date: 6 FEV
@@ -109,6 +118,7 @@
       icon: fa-globe
       about: Se tempo é dinheiro, poupemos F5s. As aplicações real-time crescem a cada dia e dotar uma aplicação destas tecnologias pode ser incrivelmente simples. Aproveitando a onda da crescente popularidade da framework web Laravel,  vem desenvolver uma pequena aplicação integrada com o Pusher, um serviço de tecnologias realtime que vais querer integrar nos teus próximos projetos.
       type: workshop
+      place: DI-0.05
 
     - coffee: true
 
@@ -122,6 +132,7 @@
       duration: one-hour
       icon: fa-cogs
       about: A era digital em que entramos, onde a conectividade massivamente sensorial e ubíqua está a indefinir os mundos físico e digital, está a traçar uma nova forma de viver, trazendo várias oportunidades e a promessa de um mundo melhor. Mas esta mudança radical traz também mais desafios, em que este mundo interconectado, onde tudo acontece num instante, facilmente se torna uma enorme plataforma de ataque para defraudadores e criminosos informáticos no geral. É, portanto, necessário haver igualmente uma abordagem alternativa para combater a fraude, suportada pelas mesmas ferramentas que dão forma a este novo mundo digital, onde a Inteligência Artificial tem um papel fundamental.
+      place: CP2-B1
 
     - meal: true
 
@@ -131,6 +142,7 @@
       type: talk
       icon: fa-trophy
       about: Desafios de programação 1v1. Comecem os duelos!
+      place: CP2-B1
 
     - name: "GitLab: One Tool for Software Development"
       speaker: Filipa Lacerda
@@ -142,6 +154,7 @@
       icon: fa-question
       type: talk
       about: Filipa Lacerda e Pedro Moreira da Silva vêm falar-te de como a GitLab pode ser uma ferramenta útil para os teus projetos.
+      place: CP2-B1
 
     - coffee: true
 
@@ -154,7 +167,8 @@
       about: A segurança das organizações está cada vez mais ligada ao sucesso dos seus negócios. Esta palestra irá discutir a necessidade da realização de testes de penetração e simulação de adversários nas organizações e mostrar alguns exemplos práticos tanto defensivos como ofensivos para tornar as organizações e os seus negócios mais seguros.
       icon: fa-lock
       type: talk
-      
+      place: CP2-B1
+
     - name: What about the future?
       speaker: Alberto Proença
       speaker2: José Nuno Oliveira
@@ -164,12 +178,14 @@
       duration: one-hour
       icon: fa-desktop
       about: Convidamos alguns dos professores mais carismáticos do nosso departamento para discutirem o futuro da engenharia informática. Não podes mesmo perder esta conversa!
+      place: CP2-B1
 
     - name: Arraial de engenharia
       time: 20:30-23:30
       duration: three-hours
       about: "Com bifanas e finos à venda, ao som do Dj Epirex, a Comissão de Festas de Engenharia Informática proporciona-te uma noite épica! Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/161849231269866/' target='_blank'>Facebook</a>."
       type: social
+      place: Largo do Carpe
 
 - wednesday:
   date: 7 FEV
@@ -186,6 +202,7 @@
       iconLeft: fa-globe
       aboutLeft: Neste workshop mostraremos como criar uma SPA (single page application) simples. Vamos criar um pseudo blog como validação do conceito. Para tal, usaremos Angular + ES6 + Webpack para o Frontend e Node.js para o Backend. Para além das instruções de como o fazer, vamos ensinar-te pequenas dicas para melhorar a performance e manutenção das coisas.
       typeLeft: workshop
+      placeLeft: DI-0.02
       nameRight: A journey through P2P land
       speakerRight: F. Mendes
       enterpriseRight: Subvisual
@@ -195,6 +212,7 @@
       iconRight: fa-code
       aboutRight: Uma viagem pela terra de sistemas distribuídos e topologias P2P, onde começamos com um projeto de smart office e aprendemos como pensar quando construímos aplicações assíncronas. Esta talk pode ou não incluir uma pequena introdução a Elixir.
       typeRight: talk
+      placeRight: CP2-B1
 
     - coffee: true
 
@@ -208,7 +226,8 @@
       icon: fa-car
       type: talk
       about: A palestra “Transforming Mobility”, será feita uma abordagem sobre o nosso foco em trazer a próxima geração de veículos autónomos, cidades inteligentes e conectividade para a vida. Além disso, serão abordados outros temas como a nova tecnologia de condução autónoma, a redefinição da conectividade do infotainment e novas soluções inteligentes de mobilidade.
-    
+      place: CP2-B1
+
     - meal: true
 
     - name: Android
@@ -218,6 +237,7 @@
       duration: one-hour
       icon: fa-android
       about: Francisco Franco vem falar-te da sua experiência em Kernel Android.
+      place: CP2-B1
 
     - name: So you want to make videogames?
       speaker: Thomas Papa
@@ -225,6 +245,7 @@
       duration: one-hour
       type: talk
       about: O que é que o Wild West, a princesa Pêssego e um carro de observação Amtrak têm em comum? São coisas que podes encontrar quando embarcas na viagem de desenvolver videojogos como modo de vida. Desenvoler videojogos, profissionalmente, é uma opção de carreira que frequentemente é encoberta em mistério quando toca a operações diárias. Esta palestra visa, precisamente, desmistificar isto e explorar 5 formas diferentes de enveredar por uma carreira nos videojogos. Também levantará a cortina sobre o que realmente significa correr um independent game e VR studio em Portugal, cobrindo aspetos como studio financing, Steam market research e "the two Johns”.
+      place: CP2-B1
 
     - coffee: true
 
@@ -237,7 +258,8 @@
       duration: one-hour
       about: Com base nas boas práticas atuais, a Dipcode implementou a sua própria metodologia de desenvolvimento face à qualidade pretendida na concepção de software. Git, Docker, integração continua, code review, branches, serão alguns dos assuntos abordados nesta sessão que pretende partilhar os processos e ferramentas utilizados na empresa.
       icon: fa-wrench
-      
+      place: CP2-B1
+
     - name: "Ser-se 'Women in Tech'"
       speaker: Mariana Gomes
       speaker2: Ana Sampaio
@@ -248,6 +270,7 @@
       duration: one-hour
       icon: fa-female
       about: O que é ser-se mulher na tecnologia? O que se poderia fazer melhor? Para responder a estas perguntas vamos conversar com verdadeiras ‘women in tech’ e partilhar experiências e opiniões sobre o tema.
+      place: CP2-B1
 
     - name: Rally de LEI
       time: 21:30-23:30
@@ -255,6 +278,7 @@
       icon: fa-beer
       about: "O tradicional Rally das Tascas, evento social que pretende promover o convívio entre os participantes da SEI. Segue este evento no <a class='link-blue-background' href='https://www.facebook.com/events/2022939851296145/' target='_blank'>Facebook</a>."
       type: social
+      place: Largo do Carpe
 
 - thursday:
   date: 8 FEV
@@ -270,6 +294,7 @@
       iconLeft: fa-android
       aboutLeft: O Android OS é, atualmente, o sistema operativo móvel com maior penetração de mercado sendo o desenvolvimento de apps para este sistema operativo uma skill com bastante procura no mercado de trabalho. Com este workshop pretende-se fazer uma breve introdução ao desenvolvimento de aplicações nativas para Android, onde serão abordados alguns conceitos básicos, best practices e patterns necessários para o desenvolvimento de apps, com exemplos práticos através do desenvolvimento de uma app Android. Para participar neste workshop é apenas necessário conhecimentos básicos de programação, um computador com Android Studio instalado e boa disposição!
       typeLeft: workshop
+      placeLeft: DI-0.02
       nameRight: H20 - “The World’s Best Machine Learning Platform” overview
       speakerRight: Pedro Duarte
       enterpriseRight: Performetric
@@ -279,7 +304,8 @@
       iconRight: fa-cogs
       aboutRight: Nesta palestra irá realizar-se uma introdução à plataforma H2O que torna Machine Learning escalável e acessível para extração de conhecimento de dados sem necessidade de experiência na implementação ou ajuste de modelos. Para além disso, será efetuada uma pequena demonstração usando a interface gráfica H2O Flow e a interação com R.
       typeRight: talk
-    
+      placeRight: CP2-B1
+
     - coffee: true
 
     - name: Everyone is excited to Bitcoin and Blockchain, shall I?
@@ -289,6 +315,7 @@
       about: "Raramente encontras uma pessoa que não esteja a par da Bitcoin, até mesmo pessoas com alguma idade. E atualmente o mercado total de criptomoedas vai já em torno de um trilião de USDs. Isto é sem dúvida algo sério, que merece a nossa atenção enquanto 'nerds' da tecnologia. Nesta palestra, tentar-se-á brevemente apresentar a Bitcoin e a tecnologia de Blockchain em que está envolta, introduzindo alguns casos de utilização de real interesse, o seu uso e abuso, e tentando ajudar-te a responder à questão: toda a gente está entusiasmada com Bitcoin e Blockchain, também devo estar?"
       type: talk
       speaker: Ali Shoker
+      place: CP2-B1
 
     - meal: true
 
@@ -299,6 +326,7 @@
       enterprise: Talkdesk
       type: talk
       about: Introdução aos conceitos de frameworks JavaScript e como fazer uma aplicação em React.
+      place: CP2-B1
 
     - name: Artificial Intelligence @ Accenture
       speaker: Pedro Couto
@@ -309,17 +337,20 @@
       type: talk
       icon: fa-cogs
       about: Machine Learning
-    
+      place: CP2-B1
+
     - coffee: true
     
     - name: "AI&ML @Critical Software: A Guided Tour"
+      speaker: Paulo Gomes
       enterprise: Critical Software
       enterpriseURL: https://www.criticalsoftware.com/
       time: 16:30-17:30
       duration: one-hour
       icon: fa-cogs
       type: talk
-      about: Machine Learning e Inteligência Artificial
+      about: O uso de Inteligência Artificial e Machine Learning na indústria e no nosso quotidiano traz soluções a problemas que até há algum tempo eram muito difíceis de resolver, se não impossíveis. Vivemos novos e entusiasmantes tempos nestes campos tecnológicos, fazendo robôs pensarem, carros conduzirem autonomamente, sistemas interagirem em linguagem natural, só para nomear alguns. A Critical Software recentemente desenvolveu um departamento interno nestas áreas, com o objetivo de adicionar valor a soluções e serviços que já providencia. Esta apresentação dar-te-á uma visão geral das áreas AI&ML na Critical, os tipos de projetos a serem desenvolvidos, quais são as principais competências procuradas nas pessoas para estas áreas e os planos futuros que a Critical tem para AI&ML.
+      place: CP2-B1
 
     - name: Into the Blockchain
       speaker: Miguel Amador
@@ -331,6 +362,7 @@
       icon: fa-bitcoin
       type: Tertulia
       about: Um olhar sobre a blockchain e as criptomoedas, onde abordamos a adopção, a legalização e a tecnologia que a suporta.
+      place: CP2-B1
 
 - friday:
   date: 9 FEV
@@ -346,6 +378,7 @@
       enterpriseLeft: Nutrium
       enterpriseURLLeft: https://nutrium.io/
       aboutLeft: Neste workshop vai fazer-se um pequeno crash course em Swift onde vai ser desenvolvida uma aplicação iOS semelhante ao feed de notícias do Facebook. Além de conceitos básicos de iOS/Swift, vai falar-se de desenvolvimento de UI, estrutura do projecto e boas práticas.
+      placeLeft: DI-0.02
       nameRight: (Re)Cria o teu CV
       speakerRight: Flávia Faria
       enterpriseRight: GIP - AAUM
@@ -354,6 +387,7 @@
       timeRight: 10:30-11:30
       iconRight: fa-paperclip
       aboutRight: O currículo é o "cartão de visita" e o primeiro contacto do candidato com o empregador. Vem aprender algumas dicas para teres um CV implacável e diferenciador.
+      placeRight: CP2-B1
 
     - coffee: true
 
@@ -364,6 +398,7 @@
       icon: fa-globe
       about: O que são Progressive WebApps? E mais importante, porque nos devemos importar? Cobrir-se-á a coleção de ferramentas que constituem uma PWA, assim como ferramentas que auxiliam o seu suporte e ainda tecnologias extra que fazem com que seja mais fácil de engolir ter de seguir protocolos. No final da palestra, estarás preparado para lidar com toda ou parte da tecnologia existente em qualquer aplicação sem teres uma grande dor de cabeça.
       duration: one-hour
+      place: CP2-B1
 
     - meal: true
 
@@ -376,6 +411,7 @@
       icon: fa-database
       about: O sucesso da Farfetch enquanto plataforma de eleição para compra de moda de luxo online assenta sobre uma equipa de engenharia de classe mundial, com uma mente especial para dados e números. Nesta apresentação será esclarecido o significado de Data, com D maiúsculo, para a Farfetch, assim como o modo como usam Data Science, Analytics e infraestruturas de Big Data escaláveis para revolucionarem a inovação.
       type: talk
+      place: CP2-B1
 
     - name: Kotlin in 42 minutes
       speaker: Eugene Petrenko
@@ -386,6 +422,7 @@
       icon: fa-code
       about: Bem-vindo ao Kotlin, a linguagem de programação open source e estaticamente tipada para aplicações multiplatforma. Para começar, haverá uma introdução à linguagem, independente do alvo final, seja ele Native, JVM, Android ou JavaScript. Cobrirá a sintaxe básica, inferência de tipos, lambdas, classes de dados, DSLs estaticamente tipadas, e muito mais. Um introdução não é possível sem histórias e planos futuros. Adicionalmente, Eugene irá partilhar a sua própria experiência com Kotlin e vários projetos open source que criou com esta linguagem.
       type: talk
+      place: CP2-B1
 
     - coffee: true
 
@@ -395,6 +432,7 @@
       icon: fa-users
       about: Cerimónia de encerramento da SEI, com a habitual entrega de prémios relativos aos concursos decorridos ao longo da semana.
       type: social
+      place: CP2-B1
 
 - saturday10:
   date: 10 FEV
@@ -406,6 +444,7 @@
       icon: fa-code
       type: Concurso
       about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
+      place: CP2
 
 - sunday11:
   date: 11 FEV
@@ -417,3 +456,4 @@
       icon: fa-code
       type: Concurso
       about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.  
+      place: CP2

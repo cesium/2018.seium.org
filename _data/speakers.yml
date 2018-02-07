@@ -347,3 +347,11 @@
   enterpriseURL: http://www.inesctec.pt/
   about: Ali Shoker é Senior Researcher no HASLab, INESC TEC e professor assistente convidado no Departamento de Informática da Universidade do Minho, onde leciona nas áreas dos Sistemas Distribuídos e Segurança (blockchains). Possui um PhD sobre o tema "Adaptive Byzantine Fault Tolerance”, obtido na Universidade de Toulouse, que é um caminho para construir "livros fiscais" distribuídos para Blockchain. Ali passou algum tempo no IRIT (França), INSA de Lyon (França) e EPFL (Suiça), neste último por duas vezes. O interesse da pesquisa de Ali está no entendimento e construção de sistemas distribuídos corretos, escaláveis, disponíveis, resilientes, seguros e eficientes.<br>Atualmente trabalha em Edge Computing (com base em Conflict-free Replicated DataTypes), Blockchain e Criptomoedas (PoW, PoX e BFT), sendo fundador do protocolo de blockchain sustentável Proof of eXercise (PoX) e coordenador do curso "Successful Systems in Production” no programa de doutoramento MAP-I.
   id: 41
+
+- name: Paulo Gomes
+  pic: paulo-gomes-critical.png
+  position: AI&ML Researcher
+  enterprise: Critical Software
+  enterpriseURL: https://www.criticalsoftware.com/
+  about: Paulo Gomes tem mais de 20 anos de experiência nas áreas da Inteligência Artificial e Machine Learning. Agora é responsável pela área de AI&ML da Critical Software, onde está a criar sinergias com projetos e áreas em que a Critical Software opera. O seu caminho profissional começou na Universidade de Coimbra em 1996, onde foi professor assistente e Researcher até Dezembro de 2015. Paralelamente à carreira académica, foi fundador de três companhias.
+  id: 42
