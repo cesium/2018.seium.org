@@ -10211,9 +10211,10 @@ button.btn.btn-info.btn-sei {
         -webkit-transform: translateY(-10px);
         transform: translateY(-10px);
         -webkit-transform: translateY(0px);
-        transform: translateY(0px); }
+        transform: translateY(0px);
+        opacity: 0; }
     button.btn.btn-info.btn-sei.disabled::after {
-      background: #333;
+      background: none;
       border-radius: 5px;
       bottom: -30px;
       font-size: 12px;
