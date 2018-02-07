@@ -94,23 +94,25 @@
 
 - name: DESAFIOS DPUM
   desc: Gostas de desafios? Nós também, é por isso que durante esta semana vais ter de por as tuas capacidades à prova com 3 problemas que escolhemos para ti.<br>Para resolver estes desafios podes usar a linguagem em que te sentes mais confortável.<br>De forma a ganhar estes fantásticos prémios tens de obter o número máximo de pontos nos 3 desafios. O critério de avaliação é o número de caracteres (Codegolf) por isso tenta ser o mais poupado possível!<br>
-        Os enunciados estão aqui e podes já começar a tentar arranjar a melhor solução! Estarão disponíveis durante toda a semana mas caso empates com alguém o critério desempate será a rapidez de submissão por isso despacha-te! Todos os desafios têm os mesmos pontos. O primeiro lugar tem 30 pontos, o segundo lugar tem 20 pontos e o terceiro 10 pontos.<br>
+        Os enunciados estão aqui e podes já começar a tentar arranjar a melhor solução! Estarão disponíveis durante toda a semana mas caso empates com alguém o critério desempate será a rapidez de submissão por isso despacha-te! Todos os desafios têm os mesmos pontos. O primeiro lugar tem 30 pontos, o segundo lugar tem 20 pontos e o terceiro 10 pontos.<br><br>
+        A submissão será feita na plataforma Mooshak do Departamento de Informática, por isso não tens de submeter os três desafios aos mesmo tempo.<br>
+        <a href="https://mooshak.di.uminho.pt" target="_blank" class="def-text col-md-12"><button class="btn btn-info btn-sei btn-des">Submissão</button></a>
         <br>Desafio 1<br>
         <br>Aqui temos o nosso primeiro desafio. Boa Sorte!<br>
         Vá, este desafio não é difícil, não te preocupes.<br>
         <br>Critério de avaliação - Menor número de caracteres possível (CodeGolf)
         <br>Critério de desempate - Rapidez de submissão<br>
-        <a href="/challenges/dpum/challenge1" target="_blank" class="def-text col-md-12"><button class="btn btn-info btn-sei btn-des">Saber mais</button></a>
+        <a href="/challenges/dpum/challenge1" target="_blank" class="def-text col-md-12"><button class="btn btn-info btn-sei btn-des">Enunciado</button></a>
         <br>Desafio 2<br>
         <br>Temos aqui um desafio que te vai fazer ficar com água na boca!<br>
         <br>Critério de avaliação - Menor número de caracteres possível (CodeGolf)
         <br>Critério de desempate - Rapidez de submissão
-        <a href="/challenges/dpum/challenge2" target="_blank" class="def-text col-md-12"><button class="btn btn-info btn-sei btn-des">Saber mais</button></a>
+        <a href="/challenges/dpum/challenge2" target="_blank" class="def-text col-md-12"><button class="btn btn-info btn-sei btn-des">Enunciado</button></a>
         <br>Desafio 3<br>
         <br>Este desafio é um pouco difícil mas nada que tu não consigas!<br>
         <br>Critério de avaliação - Menor número de caracteres possível (CodeGolf)
         <br>Critério de desempate - Rapidez de submissão
-        <a href="/challenges/dpum/challenge3" target="_blank" class="def-text col-md-12"><button class="btn btn-info btn-sei btn-des">Saber mais</button></a>
+        <a href="/challenges/dpum/challenge3" target="_blank" class="def-text col-md-12"><button class="btn btn-info btn-sei btn-des">Enunciado</button></a>
   class: dark
   prizes:
     - name: Teclado Mecânico
