@@ -9398,15 +9398,19 @@ header {
   min-height: 107px; }
 #agenda .agenda-wrapper .agenda-day .agenda-activity .three-hours {
   min-height: 129px; }
+#agenda .agenda-wrapper .agenda-day .agenda-activity .four-hours {
+  min-height: 200px; }
+#agenda .agenda-wrapper .agenda-day .agenda-activity .four-hours-and-half {
+  min-height: 250px; }
 #agenda .agenda-wrapper .agenda-day .agenda-activity .five-hours {
   min-height: 302px; }
 #agenda .agenda-wrapper .agenda-day .agenda-activity .six-hours {
   min-height: 320px; }
 #agenda .agenda-wrapper .agenda-day .agenda-activity .eight-hours {
   min-height: 350px; }
+#agenda .agenda-wrapper .agenda-day .agenda-activity .nine-hours-and-half {
+  min-height: 450px; }
 #agenda .agenda-wrapper .agenda-day .agenda-activity .twenty-hours {
-  min-height: 680px; }
-#agenda .agenda-wrapper .agenda-day .agenda-activity .thirteen-hours {
   min-height: 680px; }
 
 #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .half-hour {
@@ -9421,12 +9425,18 @@ header {
   min-height: 107px; }
 #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .three-hours {
   min-height: 129px; }
+#agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .four-hours {
+  min-height: 200px; }
+#agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .four-hours-and-half {
+  min-height: 250px; }
 #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .five-hours {
   min-height: 302px; }
 #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .six-hours {
   min-height: 320px; }
 #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .eight-hours {
   min-height: 350px; }
+#agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .nine-hours-and-half {
+  min-height: 450px; }
 #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .twenty-hours {
   min-height: 680px; }
 
@@ -9442,12 +9452,18 @@ header {
   min-height: 107px; }
 #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .three-hours {
   min-height: 129px; }
+#agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .four-hours {
+  min-height: 200px; }
+#agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .four-hours-and-half {
+  min-height: 250px; }
 #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .five-hours {
   min-height: 302px; }
 #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .six-hours {
   min-height: 320px; }
 #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .eight-hours {
   min-height: 350px; }
+#agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .nine-hours-and-half {
+  min-height: 450px; }
 #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .twenty-hours {
   min-height: 680px; }
 
@@ -9457,14 +9473,14 @@ header {
     color: #191970; }
 
 @media screen and (max-width: 991px) {
-  #agenda .agenda-wrapper .agenda-day .agenda-activity .half-hour, #agenda .agenda-wrapper .agenda-day .agenda-activity .one-hour, #agenda .agenda-wrapper .agenda-day .agenda-activity .one-hour-and-half, #agenda .agenda-wrapper .agenda-day .agenda-activity .two-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .two-hours-and-half, #agenda .agenda-wrapper .agenda-day .agenda-activity .three-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .five-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .six-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .eight-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .twenty-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .thirteen-hours {
+  #agenda .agenda-wrapper .agenda-day .agenda-activity .half-hour, #agenda .agenda-wrapper .agenda-day .agenda-activity .one-hour, #agenda .agenda-wrapper .agenda-day .agenda-activity .one-hour-and-half, #agenda .agenda-wrapper .agenda-day .agenda-activity .two-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .two-hours-and-half, #agenda .agenda-wrapper .agenda-day .agenda-activity .three-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .four-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity four-hours-and-half, #agenda .agenda-wrapper .agenda-day .agenda-activity .five-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .six-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .eight-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .twenty-hours, #agenda .agenda-wrapper .agenda-day .agenda-activity .thirteen-hours {
     min-height: 0;
     height: auto; }
 
-  #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .half-hour, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .one-hour, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .one-hour-and-half, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .two-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .two-hours-and-half, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .three-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .five-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .six-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .eight-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .twenty-hours {
+  #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .half-hour, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .one-hour, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .one-hour-and-half, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .two-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .two-hours-and-half, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .three-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .four-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left four-hours-and-half, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .five-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .six-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .eight-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-left .twenty-hours {
     height: 90%; }
 
-  #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .half-hour, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .one-hour, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .one-hour-and-half, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .two-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .two-hours-and-half, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .three-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .five-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .six-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .eight-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .twenty-hours {
+  #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .half-hour, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .one-hour, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .one-hour-and-half, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .two-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .two-hours-and-half, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .three-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .four-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right four-hours-and-half, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .five-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .six-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .eight-hours, #agenda .agenda-wrapper .agenda-day .agenda-double-activity .activity-right .twenty-hours {
     height: 80%; } }
 @media screen and (max-width: 626px) {
   #agenda .agenda-wrapper .agenda-day {
