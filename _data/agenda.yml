@@ -443,9 +443,25 @@
   date: 10 FEV
   dayOfWeek: SÁBADO
   activities:
+    - double: true
+      nameLeft: Hackathon 
+      timeLeft: 10:00-14:30
+      durationLeft: four-hours-and-half
+      iconLeft: fa-code
+      typeLeft: Concurso
+      aboutLeft: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.
+      placeLeft: CP2
+      nameRight: 61º Geek Girls Portugal
+      timeRight: 10:30-14:30
+      durationRight: four-hours
+      iconRight: fa-female
+      typeRight: Meeting
+      aboutRight: Não percas o próximo encontro das Geek Girls, onde poderás conhecer as instalações da Smith Micro Portugal e assistir às sessões da Sara e da Leandra (sabe mais <a class='link-blue-background' href="https://www.facebook.com/events/379209245883642/" target="_blank">aqui</a>). Este evento é gratuito, mas requer inscrição.
+      placeRight: Smith Micro Portugal, Braga 
+
     - name: Hackathon 
-      time: 10:00-23:59
-      duration: thirteen-hours
+      time: 14:30-23:59
+      duration: nine-hours-and-half
       icon: fa-code
       type: Concurso
       about: A Hacktivate é uma maratona de programação gratuita, organizada pelo grupo Hackathonners em parceria com o Centro de estudantes de Engenharia Informática da Universidade do Minho (CeSIUM), onde os participantes são desafiados a criar algo extraordinário em 24h.

@@ -36,7 +36,7 @@
                       {% if (act.speakerLeft and act.speakerLeft2) %}
                       <div class="activity-speaker">{{ act.speakerLeft }}</div>
                       <div class="activity-speaker">{{ act.speakerLeft2 }}</div>
-                      {% else %}
+                      {% elsif act.speakerLeft %}
                       <div class="activity-speaker">{{ act.speakerLeft }}</div>
                       {% endif %}
                     </div>
