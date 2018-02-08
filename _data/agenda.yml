@@ -377,7 +377,7 @@
       iconLeft: fa-apple
       enterpriseLeft: Nutrium
       enterpriseURLLeft: https://nutrium.io/
-      aboutLeft: Neste workshop vai fazer-se um pequeno crash course em Swift onde vai ser desenvolvida uma aplicação iOS semelhante ao feed de notícias do Facebook. Além de conceitos básicos de iOS/Swift, vai falar-se de desenvolvimento de UI, estrutura do projecto e boas práticas.
+      aboutLeft: "Neste workshop vai fazer-se um pequeno crash course em Swift onde vai ser desenvolvida uma aplicação iOS semelhante ao feed de notícias do Facebook. Além de conceitos básicos de iOS/Swift, vai falar-se de desenvolvimento de UI, estrutura do projecto e boas práticas.<br>Requisitos: Xcode 9 instalado e atualizado."
       placeLeft: DI-0.02
       nameRight: (Re)Cria o teu CV
       speakerRight: Flávia Faria
