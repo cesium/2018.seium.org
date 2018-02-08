@@ -324,7 +324,7 @@
       duration: one-hour
       icon: fa-globe
       enterprise: Talkdesk
-      speaker:Ricardo Mendes
+      speaker: Ricardo Mendes
       speaker2: Rui Fonseca
       type: talk
       about: Introdução aos conceitos de frameworks JavaScript e como fazer uma aplicação em React.
