@@ -315,6 +315,7 @@
       about: "Raramente encontras uma pessoa que não esteja a par da Bitcoin, até mesmo pessoas com alguma idade. E atualmente o mercado total de criptomoedas vai já em torno de um trilião de USDs. Isto é sem dúvida algo sério, que merece a nossa atenção enquanto 'nerds' da tecnologia. Nesta palestra, tentar-se-á brevemente apresentar a Bitcoin e a tecnologia de Blockchain em que está envolta, introduzindo alguns casos de utilização de real interesse, o seu uso e abuso, e tentando ajudar-te a responder à questão: toda a gente está entusiasmada com Bitcoin e Blockchain, também devo estar?"
       type: talk
       speaker: Ali Shoker
+      enterpriseLeft: INESC TEC
       place: CP2-B1
 
     - meal: true
