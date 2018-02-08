@@ -315,6 +315,8 @@
       about: "Raramente encontras uma pessoa que não esteja a par da Bitcoin, até mesmo pessoas com alguma idade. E atualmente o mercado total de criptomoedas vai já em torno de um trilião de USDs. Isto é sem dúvida algo sério, que merece a nossa atenção enquanto 'nerds' da tecnologia. Nesta palestra, tentar-se-á brevemente apresentar a Bitcoin e a tecnologia de Blockchain em que está envolta, introduzindo alguns casos de utilização de real interesse, o seu uso e abuso, e tentando ajudar-te a responder à questão: toda a gente está entusiasmada com Bitcoin e Blockchain, também devo estar?"
       type: talk
       speaker: Ali Shoker
+      enterprise: INESC TEC
+      enterpriseURL: http://www.inesctec.pt/
       place: CP2-B1
 
     - meal: true
@@ -388,6 +390,7 @@
       durationRight: one-hour
       timeRight: 10:30-11:30
       iconRight: fa-paperclip
+      typeRight: talk
       aboutRight: O currículo é o "cartão de visita" e o primeiro contacto do candidato com o empregador. Vem aprender algumas dicas para teres um CV implacável e diferenciador.
       placeRight: CP2-B1
 
