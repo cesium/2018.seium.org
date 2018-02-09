@@ -266,7 +266,7 @@
       speaker3: Sandra Costa
       speaker4: JBB
       time: 17:30-18:30
-      type: Tertulia
+      type: Tertulia( Informal Talk )
       duration: one-hour
       icon: fa-female
       about: O que é ser-se mulher na tecnologia? O que se poderia fazer melhor? Para responder a estas perguntas vamos conversar com verdadeiras ‘women in tech’ e partilhar experiências e opiniões sobre o tema.
@@ -364,7 +364,7 @@
       time: 17:30-18:30
       duration: one-hour 
       icon: fa-bitcoin
-      type: Tertulia
+      type: Tertulia ( Informal Talk )
       about: Um olhar sobre a blockchain e as criptomoedas, onde abordamos a adopção, a legalização e a tecnologia que a suporta.
       place: CP2-B1
 
@@ -414,7 +414,7 @@
       time: 14:00-15:00
       duration: one-hour
       icon: fa-database
-      about: O sucesso da Farfetch enquanto plataforma de eleição para compra de moda de luxo online assenta sobre uma equipa de engenharia de classe mundial, com uma mente especial para dados e números. Nesta apresentação será esclarecido o significado de Data, com D maiúsculo, para a Farfetch, assim como o modo como usam Data Science, Analytics e infraestruturas de Big Data escaláveis para revolucionarem a inovação.
+      about: O sucesso da Farfetch enquanto plataforma de eleição para compra de moda de luxo online assenta sobre uma equipa de engenharia de classe mundial, com uma mente especial para dados e números. Nesta apresentação será esclarecido o significado de Data, com D maiúsculo, para a Farfetch, assim como o modo como usam Data Science, Analytics e infraestruturas de Big Data escaláveis para revolucionarem com a sua inovação.
       type: talk
       place: CP2-B1
 
@@ -435,7 +435,7 @@
       time: 16:30-17:30
       duration: one-hour
       icon: fa-users
-      about: Cerimónia de encerramento da SEI, com a habitual entrega de prémios relativos aos concursos decorridos ao longo da semana.
+      about: Cerimónia de encerramento da SEI, com a habitual entrega de prémios relativos aos concursos decorridos ao longo da semana. Não faltem.
       type: social
       place: CP2-B1
 
